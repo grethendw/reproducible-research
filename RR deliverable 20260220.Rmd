@@ -28,3 +28,56 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+The dataset I have selected has the number of TB cases per age group, divided by sex, for 201 countries in the year 2000. This data were taken from a Udemy R course I did, and was originally sourced from WHO, likely this report: <https://iris.who.int/server/api/core/bitstreams/e031e926-f850-4d6d-a99f-d6ae841add4b/content>. 
+
+
+## Tidying the data
+
+There are five key problems with the data:
+1. there are many NA entries - can remove these with pivot_longer()
+2. column with sex and age needs to be split and made into observations
+3. the age groups need to be split with a hyphen using mutate()
+4. Country codes should have names
+5. "year" column is unnecessary because it is the same for each entry
+
+**Problems 1 and 2** were dealt with simultaneously:
+
+```{r}
+tb_tidy <- tb %>%
+  pivot_longer(
+    cols = m04:fu, 
+    names_to = c("sex", "age"),   
+    names_pattern = "(.)(.*)",   
+    values_to = "cases",           
+    values_drop_na = TRUE        
+    )
+```
+
+
+**Problem 3**
+
+With this code below, entries like "014" are split with a hyphen, and will end up looking like "0-14"
+
+```{r}
+tb_tidy <- tb_tidy %>%
+  mutate(age = case_when(
+    age == "014" ~ "0-14",
+    age == "1524" ~ "15-24",
+    age == "2534" ~ "25-34",
+    age == "3544" ~ "35-44",
+    age == "4554" ~ "45-54",
+    age == "5564" ~ "55-64",
+    age == "65"   ~ "65+",
+    TRUE ~ age                  # this keeps everything else as is
+  ))
+```
+
+
+
+
+
+
+
+
