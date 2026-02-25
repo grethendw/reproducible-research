@@ -1,0 +1,2274 @@
+"country","country_name","year","sex","age","cases"
+"AD","Andorra",2000,"m","0-14",0
+"AD","Andorra",2000,"m","15-24",0
+"AD","Andorra",2000,"m","25-34",1
+"AD","Andorra",2000,"m","35-44",0
+"AD","Andorra",2000,"m","45-54",0
+"AD","Andorra",2000,"m","55-64",0
+"AD","Andorra",2000,"m","65+",0
+"AE","United Arab Emirates",2000,"m","0-14",2
+"AE","United Arab Emirates",2000,"m","15-24",4
+"AE","United Arab Emirates",2000,"m","25-34",4
+"AE","United Arab Emirates",2000,"m","35-44",6
+"AE","United Arab Emirates",2000,"m","45-54",5
+"AE","United Arab Emirates",2000,"m","55-64",12
+"AE","United Arab Emirates",2000,"m","65+",10
+"AE","United Arab Emirates",2000,"f","0-14",3
+"AE","United Arab Emirates",2000,"f","15-24",16
+"AE","United Arab Emirates",2000,"f","25-34",1
+"AE","United Arab Emirates",2000,"f","35-44",3
+"AE","United Arab Emirates",2000,"f","45-54",0
+"AE","United Arab Emirates",2000,"f","55-64",0
+"AE","United Arab Emirates",2000,"f","65+",4
+"AF","Afghanistan",2000,"m","0-14",52
+"AF","Afghanistan",2000,"m","15-24",228
+"AF","Afghanistan",2000,"m","25-34",183
+"AF","Afghanistan",2000,"m","35-44",149
+"AF","Afghanistan",2000,"m","45-54",129
+"AF","Afghanistan",2000,"m","55-64",94
+"AF","Afghanistan",2000,"m","65+",80
+"AF","Afghanistan",2000,"f","0-14",93
+"AF","Afghanistan",2000,"f","15-24",414
+"AF","Afghanistan",2000,"f","25-34",565
+"AF","Afghanistan",2000,"f","35-44",339
+"AF","Afghanistan",2000,"f","45-54",205
+"AF","Afghanistan",2000,"f","55-64",99
+"AF","Afghanistan",2000,"f","65+",36
+"AG","Antigua & Barbuda",2000,"m","0-14",0
+"AG","Antigua & Barbuda",2000,"m","15-24",0
+"AG","Antigua & Barbuda",2000,"m","25-34",0
+"AG","Antigua & Barbuda",2000,"m","35-44",0
+"AG","Antigua & Barbuda",2000,"m","45-54",0
+"AG","Antigua & Barbuda",2000,"m","55-64",0
+"AG","Antigua & Barbuda",2000,"m","65+",1
+"AG","Antigua & Barbuda",2000,"f","0-14",1
+"AG","Antigua & Barbuda",2000,"f","15-24",1
+"AG","Antigua & Barbuda",2000,"f","25-34",1
+"AG","Antigua & Barbuda",2000,"f","35-44",0
+"AG","Antigua & Barbuda",2000,"f","45-54",0
+"AG","Antigua & Barbuda",2000,"f","55-64",0
+"AG","Antigua & Barbuda",2000,"f","65+",0
+"AL","Albania",2000,"m","0-14",2
+"AL","Albania",2000,"m","15-24",19
+"AL","Albania",2000,"m","25-34",21
+"AL","Albania",2000,"m","35-44",14
+"AL","Albania",2000,"m","45-54",24
+"AL","Albania",2000,"m","55-64",19
+"AL","Albania",2000,"m","65+",16
+"AL","Albania",2000,"f","0-14",3
+"AL","Albania",2000,"f","15-24",11
+"AL","Albania",2000,"f","25-34",10
+"AL","Albania",2000,"f","35-44",8
+"AL","Albania",2000,"f","45-54",8
+"AL","Albania",2000,"f","55-64",5
+"AL","Albania",2000,"f","65+",11
+"AM","Armenia",2000,"m","0-14",2
+"AM","Armenia",2000,"m","15-24",152
+"AM","Armenia",2000,"m","25-34",130
+"AM","Armenia",2000,"m","35-44",131
+"AM","Armenia",2000,"m","45-54",63
+"AM","Armenia",2000,"m","55-64",26
+"AM","Armenia",2000,"m","65+",21
+"AM","Armenia",2000,"f","0-14",1
+"AM","Armenia",2000,"f","15-24",24
+"AM","Armenia",2000,"f","25-34",27
+"AM","Armenia",2000,"f","35-44",24
+"AM","Armenia",2000,"f","45-54",8
+"AM","Armenia",2000,"f","55-64",8
+"AM","Armenia",2000,"f","65+",4
+"AN",NA,2000,"m","0-14",0
+"AN",NA,2000,"m","15-24",0
+"AN",NA,2000,"m","25-34",1
+"AN",NA,2000,"m","35-44",2
+"AN",NA,2000,"m","45-54",0
+"AN",NA,2000,"m","55-64",0
+"AN",NA,2000,"m","65+",0
+"AN",NA,2000,"f","0-14",0
+"AN",NA,2000,"f","15-24",0
+"AN",NA,2000,"f","25-34",1
+"AN",NA,2000,"f","35-44",0
+"AN",NA,2000,"f","45-54",0
+"AN",NA,2000,"f","55-64",1
+"AN",NA,2000,"f","65+",0
+"AO","Angola",2000,"m","0-14",186
+"AO","Angola",2000,"m","15-24",999
+"AO","Angola",2000,"m","25-34",1003
+"AO","Angola",2000,"m","35-44",912
+"AO","Angola",2000,"m","45-54",482
+"AO","Angola",2000,"m","55-64",312
+"AO","Angola",2000,"m","65+",194
+"AO","Angola",2000,"f","0-14",247
+"AO","Angola",2000,"f","15-24",1142
+"AO","Angola",2000,"f","25-34",1091
+"AO","Angola",2000,"f","35-44",844
+"AO","Angola",2000,"f","45-54",417
+"AO","Angola",2000,"f","55-64",200
+"AO","Angola",2000,"f","65+",120
+"AR","Argentina",2000,"m","0-14",97
+"AR","Argentina",2000,"m","15-24",278
+"AR","Argentina",2000,"m","25-34",594
+"AR","Argentina",2000,"m","35-44",402
+"AR","Argentina",2000,"m","45-54",419
+"AR","Argentina",2000,"m","55-64",368
+"AR","Argentina",2000,"m","65+",330
+"AR","Argentina",2000,"f","0-14",121
+"AR","Argentina",2000,"f","15-24",544
+"AR","Argentina",2000,"f","25-34",479
+"AR","Argentina",2000,"f","35-44",262
+"AR","Argentina",2000,"f","45-54",230
+"AR","Argentina",2000,"f","55-64",179
+"AR","Argentina",2000,"f","65+",216
+"AS","American Samoa",2000,"m","45-54",1
+"AS","American Samoa",2000,"m","55-64",1
+"AS","American Samoa",2000,"f","45-54",1
+"AT","Austria",2000,"m","0-14",1
+"AT","Austria",2000,"m","15-24",17
+"AT","Austria",2000,"m","25-34",30
+"AT","Austria",2000,"m","35-44",59
+"AT","Austria",2000,"m","45-54",42
+"AT","Austria",2000,"m","55-64",23
+"AT","Austria",2000,"m","65+",41
+"AT","Austria",2000,"f","0-14",1
+"AT","Austria",2000,"f","15-24",11
+"AT","Austria",2000,"f","25-34",22
+"AT","Austria",2000,"f","35-44",12
+"AT","Austria",2000,"f","45-54",11
+"AT","Austria",2000,"f","55-64",6
+"AT","Austria",2000,"f","65+",22
+"AU","Australia",2000,"m","0-14",3
+"AU","Australia",2000,"m","15-24",16
+"AU","Australia",2000,"m","25-34",35
+"AU","Australia",2000,"m","35-44",25
+"AU","Australia",2000,"m","45-54",24
+"AU","Australia",2000,"m","55-64",19
+"AU","Australia",2000,"m","65+",49
+"AU","Australia",2000,"f","0-14",0
+"AU","Australia",2000,"f","15-24",15
+"AU","Australia",2000,"f","25-34",19
+"AU","Australia",2000,"f","35-44",12
+"AU","Australia",2000,"f","45-54",15
+"AU","Australia",2000,"f","55-64",5
+"AU","Australia",2000,"f","65+",14
+"AZ","Azerbaijan",2000,"m","0-14",0
+"AZ","Azerbaijan",2000,"m","15-24",9
+"AZ","Azerbaijan",2000,"m","25-34",24
+"AZ","Azerbaijan",2000,"m","35-44",33
+"AZ","Azerbaijan",2000,"m","45-54",42
+"AZ","Azerbaijan",2000,"m","55-64",30
+"AZ","Azerbaijan",2000,"m","65+",0
+"AZ","Azerbaijan",2000,"f","0-14",0
+"AZ","Azerbaijan",2000,"f","15-24",3
+"AZ","Azerbaijan",2000,"f","25-34",3
+"AZ","Azerbaijan",2000,"f","35-44",6
+"AZ","Azerbaijan",2000,"f","45-54",3
+"AZ","Azerbaijan",2000,"f","55-64",0
+"AZ","Azerbaijan",2000,"f","65+",0
+"BA","Bosnia & Herzegovina",2000,"m","0-14",4
+"BA","Bosnia & Herzegovina",2000,"m","15-24",56
+"BA","Bosnia & Herzegovina",2000,"m","25-34",82
+"BA","Bosnia & Herzegovina",2000,"m","35-44",99
+"BA","Bosnia & Herzegovina",2000,"m","45-54",66
+"BA","Bosnia & Herzegovina",2000,"m","55-64",58
+"BA","Bosnia & Herzegovina",2000,"m","65+",77
+"BA","Bosnia & Herzegovina",2000,"f","0-14",4
+"BA","Bosnia & Herzegovina",2000,"f","15-24",30
+"BA","Bosnia & Herzegovina",2000,"f","25-34",46
+"BA","Bosnia & Herzegovina",2000,"f","35-44",29
+"BA","Bosnia & Herzegovina",2000,"f","45-54",29
+"BA","Bosnia & Herzegovina",2000,"f","55-64",48
+"BA","Bosnia & Herzegovina",2000,"f","65+",124
+"BB","Barbados",2000,"m","0-14",0
+"BB","Barbados",2000,"m","15-24",0
+"BB","Barbados",2000,"m","25-34",0
+"BB","Barbados",2000,"m","35-44",2
+"BB","Barbados",2000,"m","45-54",0
+"BB","Barbados",2000,"m","55-64",0
+"BB","Barbados",2000,"m","65+",0
+"BB","Barbados",2000,"f","0-14",0
+"BB","Barbados",2000,"f","15-24",0
+"BB","Barbados",2000,"f","25-34",1
+"BB","Barbados",2000,"f","35-44",0
+"BB","Barbados",2000,"f","45-54",0
+"BB","Barbados",2000,"f","55-64",0
+"BB","Barbados",2000,"f","65+",0
+"BD","Bangladesh",2000,"m","0-14",256
+"BD","Bangladesh",2000,"m","15-24",3640
+"BD","Bangladesh",2000,"m","25-34",5643
+"BD","Bangladesh",2000,"m","35-44",5750
+"BD","Bangladesh",2000,"m","45-54",4718
+"BD","Bangladesh",2000,"m","55-64",3667
+"BD","Bangladesh",2000,"m","65+",2837
+"BD","Bangladesh",2000,"f","0-14",495
+"BD","Bangladesh",2000,"f","15-24",3029
+"BD","Bangladesh",2000,"f","25-34",3238
+"BD","Bangladesh",2000,"f","35-44",2247
+"BD","Bangladesh",2000,"f","45-54",1315
+"BD","Bangladesh",2000,"f","55-64",778
+"BD","Bangladesh",2000,"f","65+",370
+"BE","Belgium",2000,"m","0-14",3
+"BE","Belgium",2000,"m","15-24",20
+"BE","Belgium",2000,"m","25-34",57
+"BE","Belgium",2000,"m","35-44",39
+"BE","Belgium",2000,"m","45-54",55
+"BE","Belgium",2000,"m","55-64",32
+"BE","Belgium",2000,"m","65+",56
+"BE","Belgium",2000,"f","0-14",6
+"BE","Belgium",2000,"f","15-24",15
+"BE","Belgium",2000,"f","25-34",15
+"BE","Belgium",2000,"f","35-44",19
+"BE","Belgium",2000,"f","45-54",4
+"BE","Belgium",2000,"f","55-64",13
+"BE","Belgium",2000,"f","65+",27
+"BF","Burkina Faso",2000,"m","0-14",12
+"BF","Burkina Faso",2000,"m","15-24",91
+"BF","Burkina Faso",2000,"m","25-34",274
+"BF","Burkina Faso",2000,"m","35-44",252
+"BF","Burkina Faso",2000,"m","45-54",133
+"BF","Burkina Faso",2000,"m","55-64",68
+"BF","Burkina Faso",2000,"m","65+",65
+"BF","Burkina Faso",2000,"f","0-14",7
+"BF","Burkina Faso",2000,"f","15-24",59
+"BF","Burkina Faso",2000,"f","25-34",128
+"BF","Burkina Faso",2000,"f","35-44",101
+"BF","Burkina Faso",2000,"f","45-54",45
+"BF","Burkina Faso",2000,"f","55-64",38
+"BF","Burkina Faso",2000,"f","65+",14
+"BG","Bulgaria",2000,"m","0-14",0
+"BG","Bulgaria",2000,"m","15-24",13
+"BG","Bulgaria",2000,"m","25-34",16
+"BG","Bulgaria",2000,"m","35-44",20
+"BG","Bulgaria",2000,"m","45-54",3
+"BG","Bulgaria",2000,"m","55-64",9
+"BG","Bulgaria",2000,"m","65+",10
+"BG","Bulgaria",2000,"f","0-14",0
+"BG","Bulgaria",2000,"f","15-24",11
+"BG","Bulgaria",2000,"f","25-34",14
+"BG","Bulgaria",2000,"f","35-44",7
+"BG","Bulgaria",2000,"f","45-54",3
+"BG","Bulgaria",2000,"f","55-64",4
+"BG","Bulgaria",2000,"f","65+",6
+"BH","Bahrain",2000,"m","0-14",0
+"BH","Bahrain",2000,"m","15-24",0
+"BH","Bahrain",2000,"m","25-34",3
+"BH","Bahrain",2000,"m","35-44",2
+"BH","Bahrain",2000,"m","45-54",5
+"BH","Bahrain",2000,"m","55-64",3
+"BH","Bahrain",2000,"m","65+",4
+"BH","Bahrain",2000,"f","0-14",0
+"BH","Bahrain",2000,"f","15-24",1
+"BH","Bahrain",2000,"f","25-34",2
+"BH","Bahrain",2000,"f","35-44",0
+"BH","Bahrain",2000,"f","45-54",1
+"BH","Bahrain",2000,"f","55-64",1
+"BH","Bahrain",2000,"f","65+",1
+"BJ","Benin",2000,"m","0-14",19
+"BJ","Benin",2000,"m","15-24",277
+"BJ","Benin",2000,"m","25-34",428
+"BJ","Benin",2000,"m","35-44",327
+"BJ","Benin",2000,"m","45-54",213
+"BJ","Benin",2000,"m","55-64",103
+"BJ","Benin",2000,"m","65+",74
+"BJ","Benin",2000,"f","0-14",36
+"BJ","Benin",2000,"f","15-24",239
+"BJ","Benin",2000,"f","25-34",275
+"BJ","Benin",2000,"f","35-44",149
+"BJ","Benin",2000,"f","45-54",76
+"BJ","Benin",2000,"f","55-64",45
+"BJ","Benin",2000,"f","65+",25
+"BN","Brunei",2000,"m","0-14",0
+"BN","Brunei",2000,"m","15-24",6
+"BN","Brunei",2000,"m","25-34",4
+"BN","Brunei",2000,"m","35-44",15
+"BN","Brunei",2000,"m","45-54",5
+"BN","Brunei",2000,"m","55-64",7
+"BN","Brunei",2000,"m","65+",15
+"BN","Brunei",2000,"f","0-14",0
+"BN","Brunei",2000,"f","15-24",4
+"BN","Brunei",2000,"f","25-34",6
+"BN","Brunei",2000,"f","35-44",9
+"BN","Brunei",2000,"f","45-54",6
+"BN","Brunei",2000,"f","55-64",3
+"BN","Brunei",2000,"f","65+",4
+"BO","Bolivia",2000,"m","0-14",166
+"BO","Bolivia",2000,"m","15-24",1182
+"BO","Bolivia",2000,"m","25-34",797
+"BO","Bolivia",2000,"m","35-44",518
+"BO","Bolivia",2000,"m","45-54",466
+"BO","Bolivia",2000,"m","55-64",340
+"BO","Bolivia",2000,"m","65+",366
+"BO","Bolivia",2000,"f","0-14",191
+"BO","Bolivia",2000,"f","15-24",831
+"BO","Bolivia",2000,"f","25-34",588
+"BO","Bolivia",2000,"f","35-44",334
+"BO","Bolivia",2000,"f","45-54",254
+"BO","Bolivia",2000,"f","55-64",192
+"BO","Bolivia",2000,"f","65+",233
+"BR","Brazil",2000,"m","0-14",1894
+"BR","Brazil",2000,"m","15-24",7268
+"BR","Brazil",2000,"m","25-34",11568
+"BR","Brazil",2000,"m","35-44",11906
+"BR","Brazil",2000,"m","45-54",8623
+"BR","Brazil",2000,"m","55-64",5085
+"BR","Brazil",2000,"m","65+",4494
+"BR","Brazil",2000,"f","0-14",1859
+"BR","Brazil",2000,"f","15-24",6719
+"BR","Brazil",2000,"f","25-34",7215
+"BR","Brazil",2000,"f","35-44",5395
+"BR","Brazil",2000,"f","45-54",3582
+"BR","Brazil",2000,"f","55-64",2384
+"BR","Brazil",2000,"f","65+",2496
+"BS","Bahamas",2000,"m","0-14",1
+"BS","Bahamas",2000,"m","15-24",2
+"BS","Bahamas",2000,"m","25-34",7
+"BS","Bahamas",2000,"m","35-44",9
+"BS","Bahamas",2000,"m","45-54",4
+"BS","Bahamas",2000,"m","55-64",3
+"BS","Bahamas",2000,"m","65+",2
+"BS","Bahamas",2000,"f","0-14",2
+"BS","Bahamas",2000,"f","15-24",5
+"BS","Bahamas",2000,"f","25-34",7
+"BS","Bahamas",2000,"f","35-44",8
+"BS","Bahamas",2000,"f","45-54",2
+"BS","Bahamas",2000,"f","55-64",3
+"BS","Bahamas",2000,"f","65+",1
+"BT","Bhutan",2000,"m","0-14",6
+"BT","Bhutan",2000,"m","15-24",65
+"BT","Bhutan",2000,"m","25-34",41
+"BT","Bhutan",2000,"m","35-44",30
+"BT","Bhutan",2000,"m","45-54",24
+"BT","Bhutan",2000,"m","55-64",12
+"BT","Bhutan",2000,"m","65+",2
+"BT","Bhutan",2000,"f","0-14",7
+"BT","Bhutan",2000,"f","15-24",57
+"BT","Bhutan",2000,"f","25-34",34
+"BT","Bhutan",2000,"f","35-44",31
+"BT","Bhutan",2000,"f","45-54",23
+"BT","Bhutan",2000,"f","55-64",3
+"BT","Bhutan",2000,"f","65+",2
+"BW","Botswana",2000,"m","0-14",25
+"BW","Botswana",2000,"m","15-24",185
+"BW","Botswana",2000,"m","25-34",605
+"BW","Botswana",2000,"m","35-44",488
+"BW","Botswana",2000,"m","45-54",267
+"BW","Botswana",2000,"m","55-64",135
+"BW","Botswana",2000,"m","65+",96
+"BW","Botswana",2000,"f","0-14",37
+"BW","Botswana",2000,"f","15-24",335
+"BW","Botswana",2000,"f","25-34",469
+"BW","Botswana",2000,"f","35-44",262
+"BW","Botswana",2000,"f","45-54",98
+"BW","Botswana",2000,"f","55-64",57
+"BW","Botswana",2000,"f","65+",36
+"BZ","Belize",2000,"m","0-14",2
+"BZ","Belize",2000,"m","15-24",5
+"BZ","Belize",2000,"m","25-34",7
+"BZ","Belize",2000,"m","35-44",2
+"BZ","Belize",2000,"m","45-54",6
+"BZ","Belize",2000,"m","55-64",3
+"BZ","Belize",2000,"m","65+",5
+"BZ","Belize",2000,"f","0-14",0
+"BZ","Belize",2000,"f","15-24",2
+"BZ","Belize",2000,"f","25-34",1
+"BZ","Belize",2000,"f","35-44",2
+"BZ","Belize",2000,"f","45-54",4
+"BZ","Belize",2000,"f","55-64",1
+"BZ","Belize",2000,"f","65+",4
+"CA","Canada",2000,"m","0-14",5
+"CA","Canada",2000,"m","15-24",34
+"CA","Canada",2000,"m","25-34",45
+"CA","Canada",2000,"m","35-44",46
+"CA","Canada",2000,"m","45-54",41
+"CA","Canada",2000,"m","55-64",32
+"CA","Canada",2000,"m","65+",79
+"CA","Canada",2000,"f","0-14",4
+"CA","Canada",2000,"f","15-24",33
+"CA","Canada",2000,"f","25-34",40
+"CA","Canada",2000,"f","35-44",30
+"CA","Canada",2000,"f","45-54",25
+"CA","Canada",2000,"f","55-64",12
+"CA","Canada",2000,"f","65+",66
+"CD","Congo - Kinshasa",2000,"m","0-14",485
+"CD","Congo - Kinshasa",2000,"m","15-24",4048
+"CD","Congo - Kinshasa",2000,"m","25-34",5833
+"CD","Congo - Kinshasa",2000,"m","35-44",4151
+"CD","Congo - Kinshasa",2000,"m","45-54",2549
+"CD","Congo - Kinshasa",2000,"m","55-64",1295
+"CD","Congo - Kinshasa",2000,"m","65+",602
+"CD","Congo - Kinshasa",2000,"f","0-14",718
+"CD","Congo - Kinshasa",2000,"f","15-24",4422
+"CD","Congo - Kinshasa",2000,"f","25-34",5146
+"CD","Congo - Kinshasa",2000,"f","35-44",3309
+"CD","Congo - Kinshasa",2000,"f","45-54",1724
+"CD","Congo - Kinshasa",2000,"f","55-64",855
+"CD","Congo - Kinshasa",2000,"f","65+",351
+"CH","Switzerland",2000,"m","0-14",0
+"CH","Switzerland",2000,"m","15-24",5
+"CH","Switzerland",2000,"m","25-34",18
+"CH","Switzerland",2000,"m","35-44",10
+"CH","Switzerland",2000,"m","45-54",7
+"CH","Switzerland",2000,"m","55-64",5
+"CH","Switzerland",2000,"m","65+",8
+"CH","Switzerland",2000,"f","0-14",1
+"CH","Switzerland",2000,"f","15-24",9
+"CH","Switzerland",2000,"f","25-34",12
+"CH","Switzerland",2000,"f","35-44",8
+"CH","Switzerland",2000,"f","45-54",2
+"CH","Switzerland",2000,"f","55-64",1
+"CH","Switzerland",2000,"f","65+",6
+"CK","Cook Islands",2000,"m","0-14",0
+"CK","Cook Islands",2000,"m","15-24",0
+"CK","Cook Islands",2000,"m","25-34",0
+"CK","Cook Islands",2000,"m","35-44",0
+"CK","Cook Islands",2000,"m","45-54",0
+"CK","Cook Islands",2000,"m","55-64",0
+"CK","Cook Islands",2000,"m","65+",0
+"CK","Cook Islands",2000,"f","0-14",0
+"CK","Cook Islands",2000,"f","15-24",0
+"CK","Cook Islands",2000,"f","25-34",0
+"CK","Cook Islands",2000,"f","35-44",0
+"CK","Cook Islands",2000,"f","45-54",0
+"CK","Cook Islands",2000,"f","55-64",0
+"CK","Cook Islands",2000,"f","65+",0
+"CL","Chile",2000,"m","0-14",6
+"CL","Chile",2000,"m","15-24",81
+"CL","Chile",2000,"m","25-34",160
+"CL","Chile",2000,"m","35-44",198
+"CL","Chile",2000,"m","45-54",150
+"CL","Chile",2000,"m","55-64",132
+"CL","Chile",2000,"m","65+",126
+"CL","Chile",2000,"f","0-14",10
+"CL","Chile",2000,"f","15-24",66
+"CL","Chile",2000,"f","25-34",96
+"CL","Chile",2000,"f","35-44",70
+"CL","Chile",2000,"f","45-54",54
+"CL","Chile",2000,"f","55-64",58
+"CL","Chile",2000,"f","65+",83
+"CM","Cameroon",2000,"m","0-14",41
+"CM","Cameroon",2000,"m","15-24",518
+"CM","Cameroon",2000,"m","25-34",842
+"CM","Cameroon",2000,"m","35-44",584
+"CM","Cameroon",2000,"m","45-54",284
+"CM","Cameroon",2000,"m","55-64",130
+"CM","Cameroon",2000,"m","65+",75
+"CM","Cameroon",2000,"f","0-14",63
+"CM","Cameroon",2000,"f","15-24",368
+"CM","Cameroon",2000,"f","25-34",530
+"CM","Cameroon",2000,"f","35-44",293
+"CM","Cameroon",2000,"f","45-54",139
+"CM","Cameroon",2000,"f","55-64",60
+"CM","Cameroon",2000,"f","65+",33
+"CN","China",2000,"m","0-14",1131
+"CN","China",2000,"m","15-24",19111
+"CN","China",2000,"m","25-34",29399
+"CN","China",2000,"m","35-44",25206
+"CN","China",2000,"m","45-54",25593
+"CN","China",2000,"m","55-64",21429
+"CN","China",2000,"m","65+",21771
+"CN","China",2000,"f","0-14",1420
+"CN","China",2000,"f","15-24",14536
+"CN","China",2000,"f","25-34",18496
+"CN","China",2000,"f","35-44",12377
+"CN","China",2000,"f","45-54",9899
+"CN","China",2000,"f","55-64",7102
+"CN","China",2000,"f","65+",6296
+"CO","Colombia",2000,"m","0-14",246
+"CO","Colombia",2000,"m","15-24",763
+"CO","Colombia",2000,"m","25-34",1030
+"CO","Colombia",2000,"m","35-44",963
+"CO","Colombia",2000,"m","45-54",743
+"CO","Colombia",2000,"m","55-64",610
+"CO","Colombia",2000,"m","65+",746
+"CO","Colombia",2000,"f","0-14",194
+"CO","Colombia",2000,"f","15-24",587
+"CO","Colombia",2000,"f","25-34",758
+"CO","Colombia",2000,"f","35-44",523
+"CO","Colombia",2000,"f","45-54",381
+"CO","Colombia",2000,"f","55-64",304
+"CO","Colombia",2000,"f","65+",510
+"CR","Costa Rica",2000,"m","0-14",14
+"CR","Costa Rica",2000,"m","15-24",31
+"CR","Costa Rica",2000,"m","25-34",53
+"CR","Costa Rica",2000,"m","35-44",62
+"CR","Costa Rica",2000,"m","45-54",39
+"CR","Costa Rica",2000,"m","55-64",28
+"CR","Costa Rica",2000,"m","65+",49
+"CR","Costa Rica",2000,"f","0-14",13
+"CR","Costa Rica",2000,"f","15-24",21
+"CR","Costa Rica",2000,"f","25-34",33
+"CR","Costa Rica",2000,"f","35-44",24
+"CR","Costa Rica",2000,"f","45-54",20
+"CR","Costa Rica",2000,"f","55-64",23
+"CR","Costa Rica",2000,"f","65+",24
+"CU","Cuba",2000,"m","0-14",0
+"CU","Cuba",2000,"m","15-24",71
+"CU","Cuba",2000,"m","25-34",167
+"CU","Cuba",2000,"m","35-44",90
+"CU","Cuba",2000,"m","45-54",74
+"CU","Cuba",2000,"m","55-64",55
+"CU","Cuba",2000,"m","65+",75
+"CU","Cuba",2000,"f","0-14",2
+"CU","Cuba",2000,"f","15-24",9
+"CU","Cuba",2000,"f","25-34",22
+"CU","Cuba",2000,"f","35-44",26
+"CU","Cuba",2000,"f","45-54",22
+"CU","Cuba",2000,"f","55-64",23
+"CU","Cuba",2000,"f","65+",39
+"CZ","Czechia",2000,"m","0-14",0
+"CZ","Czechia",2000,"m","15-24",7
+"CZ","Czechia",2000,"m","25-34",31
+"CZ","Czechia",2000,"m","35-44",52
+"CZ","Czechia",2000,"m","45-54",89
+"CZ","Czechia",2000,"m","55-64",61
+"CZ","Czechia",2000,"m","65+",59
+"CZ","Czechia",2000,"f","0-14",0
+"CZ","Czechia",2000,"f","15-24",15
+"CZ","Czechia",2000,"f","25-34",13
+"CZ","Czechia",2000,"f","35-44",9
+"CZ","Czechia",2000,"f","45-54",10
+"CZ","Czechia",2000,"f","55-64",7
+"CZ","Czechia",2000,"f","65+",57
+"DJ","Djibouti",2000,"m","0-14",17
+"DJ","Djibouti",2000,"m","15-24",302
+"DJ","Djibouti",2000,"m","25-34",347
+"DJ","Djibouti",2000,"m","35-44",139
+"DJ","Djibouti",2000,"m","45-54",67
+"DJ","Djibouti",2000,"m","55-64",60
+"DJ","Djibouti",2000,"m","65+",42
+"DJ","Djibouti",2000,"f","0-14",12
+"DJ","Djibouti",2000,"f","15-24",147
+"DJ","Djibouti",2000,"f","25-34",156
+"DJ","Djibouti",2000,"f","35-44",47
+"DJ","Djibouti",2000,"f","45-54",31
+"DJ","Djibouti",2000,"f","55-64",17
+"DJ","Djibouti",2000,"f","65+",10
+"DK","Denmark",2000,"m","0-14",5
+"DK","Denmark",2000,"m","15-24",10
+"DK","Denmark",2000,"m","25-34",20
+"DK","Denmark",2000,"m","35-44",24
+"DK","Denmark",2000,"m","45-54",16
+"DK","Denmark",2000,"m","55-64",11
+"DK","Denmark",2000,"m","65+",14
+"DK","Denmark",2000,"f","0-14",5
+"DK","Denmark",2000,"f","15-24",16
+"DK","Denmark",2000,"f","25-34",15
+"DK","Denmark",2000,"f","35-44",14
+"DK","Denmark",2000,"f","45-54",6
+"DK","Denmark",2000,"f","55-64",7
+"DK","Denmark",2000,"f","65+",8
+"DO","Dominican Republic",2000,"m","0-14",73
+"DO","Dominican Republic",2000,"m","15-24",410
+"DO","Dominican Republic",2000,"m","25-34",481
+"DO","Dominican Republic",2000,"m","35-44",344
+"DO","Dominican Republic",2000,"m","45-54",173
+"DO","Dominican Republic",2000,"m","55-64",125
+"DO","Dominican Republic",2000,"m","65+",113
+"DO","Dominican Republic",2000,"f","0-14",65
+"DO","Dominican Republic",2000,"f","15-24",317
+"DO","Dominican Republic",2000,"f","25-34",325
+"DO","Dominican Republic",2000,"f","35-44",212
+"DO","Dominican Republic",2000,"f","45-54",115
+"DO","Dominican Republic",2000,"f","55-64",79
+"DO","Dominican Republic",2000,"f","65+",75
+"DZ","Algeria",2000,"m","0-14",59
+"DZ","Algeria",2000,"m","15-24",927
+"DZ","Algeria",2000,"m","25-34",1516
+"DZ","Algeria",2000,"m","35-44",610
+"DZ","Algeria",2000,"m","45-54",491
+"DZ","Algeria",2000,"m","55-64",234
+"DZ","Algeria",2000,"m","65+",299
+"DZ","Algeria",2000,"f","0-14",36
+"DZ","Algeria",2000,"f","15-24",1005
+"DZ","Algeria",2000,"f","25-34",1293
+"DZ","Algeria",2000,"f","35-44",746
+"DZ","Algeria",2000,"f","45-54",314
+"DZ","Algeria",2000,"f","55-64",208
+"DZ","Algeria",2000,"f","65+",312
+"EE","Estonia",2000,"m","0-14",0
+"EE","Estonia",2000,"m","15-24",6
+"EE","Estonia",2000,"m","25-34",31
+"EE","Estonia",2000,"m","35-44",53
+"EE","Estonia",2000,"m","45-54",56
+"EE","Estonia",2000,"m","55-64",35
+"EE","Estonia",2000,"m","65+",15
+"EE","Estonia",2000,"f","0-14",0
+"EE","Estonia",2000,"f","15-24",9
+"EE","Estonia",2000,"f","25-34",11
+"EE","Estonia",2000,"f","35-44",14
+"EE","Estonia",2000,"f","45-54",11
+"EE","Estonia",2000,"f","55-64",4
+"EE","Estonia",2000,"f","65+",10
+"EG","Egypt",2000,"m","0-14",21
+"EG","Egypt",2000,"m","15-24",641
+"EG","Egypt",2000,"m","25-34",827
+"EG","Egypt",2000,"m","35-44",667
+"EG","Egypt",2000,"m","45-54",476
+"EG","Egypt",2000,"m","55-64",307
+"EG","Egypt",2000,"m","65+",158
+"EG","Egypt",2000,"f","0-14",55
+"EG","Egypt",2000,"f","15-24",457
+"EG","Egypt",2000,"f","25-34",343
+"EG","Egypt",2000,"f","35-44",257
+"EG","Egypt",2000,"f","45-54",211
+"EG","Egypt",2000,"f","55-64",112
+"EG","Egypt",2000,"f","65+",48
+"ER","Eritrea",2000,"m","0-14",9
+"ER","Eritrea",2000,"m","15-24",70
+"ER","Eritrea",2000,"m","25-34",75
+"ER","Eritrea",2000,"m","35-44",57
+"ER","Eritrea",2000,"m","45-54",32
+"ER","Eritrea",2000,"m","55-64",25
+"ER","Eritrea",2000,"m","65+",20
+"ER","Eritrea",2000,"f","0-14",10
+"ER","Eritrea",2000,"f","15-24",100
+"ER","Eritrea",2000,"f","25-34",87
+"ER","Eritrea",2000,"f","35-44",71
+"ER","Eritrea",2000,"f","45-54",21
+"ER","Eritrea",2000,"f","55-64",12
+"ER","Eritrea",2000,"f","65+",8
+"ET","Ethiopia",2000,"m","0-14",915
+"ET","Ethiopia",2000,"m","15-24",5095
+"ET","Ethiopia",2000,"m","25-34",5187
+"ET","Ethiopia",2000,"m","35-44",3082
+"ET","Ethiopia",2000,"m","45-54",1495
+"ET","Ethiopia",2000,"m","55-64",610
+"ET","Ethiopia",2000,"m","65+",397
+"ET","Ethiopia",2000,"f","0-14",1037
+"ET","Ethiopia",2000,"f","15-24",4699
+"ET","Ethiopia",2000,"f","25-34",4424
+"ET","Ethiopia",2000,"f","35-44",2105
+"ET","Ethiopia",2000,"f","45-54",976
+"ET","Ethiopia",2000,"f","55-64",366
+"ET","Ethiopia",2000,"f","65+",122
+"FI","Finland",2000,"m","0-14",0
+"FI","Finland",2000,"m","15-24",3
+"FI","Finland",2000,"m","25-34",8
+"FI","Finland",2000,"m","35-44",22
+"FI","Finland",2000,"m","45-54",19
+"FI","Finland",2000,"m","55-64",28
+"FI","Finland",2000,"m","65+",53
+"FI","Finland",2000,"f","0-14",0
+"FI","Finland",2000,"f","15-24",1
+"FI","Finland",2000,"f","25-34",5
+"FI","Finland",2000,"f","35-44",3
+"FI","Finland",2000,"f","45-54",4
+"FI","Finland",2000,"f","55-64",6
+"FI","Finland",2000,"f","65+",49
+"FJ","Fiji",2000,"m","0-14",0
+"FJ","Fiji",2000,"m","15-24",8
+"FJ","Fiji",2000,"m","25-34",6
+"FJ","Fiji",2000,"m","35-44",13
+"FJ","Fiji",2000,"m","45-54",5
+"FJ","Fiji",2000,"m","55-64",4
+"FJ","Fiji",2000,"m","65+",2
+"FJ","Fiji",2000,"f","0-14",0
+"FJ","Fiji",2000,"f","15-24",7
+"FJ","Fiji",2000,"f","25-34",5
+"FJ","Fiji",2000,"f","35-44",7
+"FJ","Fiji",2000,"f","45-54",1
+"FJ","Fiji",2000,"f","55-64",4
+"FJ","Fiji",2000,"f","65+",0
+"FM","Micronesia (Federated States of)",2000,"m","0-14",0
+"FM","Micronesia (Federated States of)",2000,"m","15-24",2
+"FM","Micronesia (Federated States of)",2000,"m","25-34",0
+"FM","Micronesia (Federated States of)",2000,"m","35-44",1
+"FM","Micronesia (Federated States of)",2000,"m","45-54",0
+"FM","Micronesia (Federated States of)",2000,"m","55-64",0
+"FM","Micronesia (Federated States of)",2000,"m","65+",1
+"FM","Micronesia (Federated States of)",2000,"f","0-14",4
+"FM","Micronesia (Federated States of)",2000,"f","15-24",3
+"FM","Micronesia (Federated States of)",2000,"f","25-34",1
+"FM","Micronesia (Federated States of)",2000,"f","35-44",1
+"FM","Micronesia (Federated States of)",2000,"f","45-54",0
+"FM","Micronesia (Federated States of)",2000,"f","55-64",1
+"FM","Micronesia (Federated States of)",2000,"f","65+",1
+"FR","France",2000,"m","0-14",10
+"FR","France",2000,"m","15-24",136
+"FR","France",2000,"m","25-34",248
+"FR","France",2000,"m","35-44",247
+"FR","France",2000,"m","45-54",211
+"FR","France",2000,"m","55-64",125
+"FR","France",2000,"m","65+",244
+"FR","France",2000,"f","0-14",18
+"FR","France",2000,"f","15-24",108
+"FR","France",2000,"f","25-34",127
+"FR","France",2000,"f","35-44",89
+"FR","France",2000,"f","45-54",46
+"FR","France",2000,"f","55-64",43
+"FR","France",2000,"f","65+",155
+"GB","United Kingdom",2000,"m","0-14",8
+"GB","United Kingdom",2000,"m","15-24",86
+"GB","United Kingdom",2000,"m","25-34",130
+"GB","United Kingdom",2000,"m","35-44",96
+"GB","United Kingdom",2000,"m","45-54",87
+"GB","United Kingdom",2000,"m","55-64",75
+"GB","United Kingdom",2000,"m","65+",138
+"GB","United Kingdom",2000,"f","0-14",9
+"GB","United Kingdom",2000,"f","15-24",95
+"GB","United Kingdom",2000,"f","25-34",114
+"GB","United Kingdom",2000,"f","35-44",60
+"GB","United Kingdom",2000,"f","45-54",31
+"GB","United Kingdom",2000,"f","55-64",31
+"GB","United Kingdom",2000,"f","65+",67
+"GE","Georgia",2000,"m","0-14",4
+"GE","Georgia",2000,"m","15-24",76
+"GE","Georgia",2000,"m","25-34",111
+"GE","Georgia",2000,"m","35-44",113
+"GE","Georgia",2000,"m","45-54",63
+"GE","Georgia",2000,"m","55-64",45
+"GE","Georgia",2000,"m","65+",28
+"GE","Georgia",2000,"f","0-14",1
+"GE","Georgia",2000,"f","15-24",49
+"GE","Georgia",2000,"f","25-34",37
+"GE","Georgia",2000,"f","35-44",33
+"GE","Georgia",2000,"f","45-54",17
+"GE","Georgia",2000,"f","55-64",10
+"GE","Georgia",2000,"f","65+",5
+"GH","Ghana",2000,"m","0-14",73
+"GH","Ghana",2000,"m","15-24",550
+"GH","Ghana",2000,"m","25-34",1266
+"GH","Ghana",2000,"m","35-44",1115
+"GH","Ghana",2000,"m","45-54",811
+"GH","Ghana",2000,"m","55-64",495
+"GH","Ghana",2000,"m","65+",426
+"GH","Ghana",2000,"f","0-14",74
+"GH","Ghana",2000,"f","15-24",456
+"GH","Ghana",2000,"f","25-34",791
+"GH","Ghana",2000,"f","35-44",566
+"GH","Ghana",2000,"f","45-54",338
+"GH","Ghana",2000,"f","55-64",179
+"GH","Ghana",2000,"f","65+",176
+"GN","Guinea",2000,"m","0-14",39
+"GN","Guinea",2000,"m","15-24",551
+"GN","Guinea",2000,"m","25-34",860
+"GN","Guinea",2000,"m","35-44",570
+"GN","Guinea",2000,"m","45-54",282
+"GN","Guinea",2000,"m","55-64",203
+"GN","Guinea",2000,"m","65+",103
+"GN","Guinea",2000,"f","0-14",66
+"GN","Guinea",2000,"f","15-24",314
+"GN","Guinea",2000,"f","25-34",446
+"GN","Guinea",2000,"f","35-44",245
+"GN","Guinea",2000,"f","45-54",114
+"GN","Guinea",2000,"f","55-64",82
+"GN","Guinea",2000,"f","65+",45
+"GR","Greece",2000,"m","0-14",1
+"GR","Greece",2000,"m","15-24",10
+"GR","Greece",2000,"m","25-34",22
+"GR","Greece",2000,"m","35-44",32
+"GR","Greece",2000,"m","45-54",24
+"GR","Greece",2000,"m","55-64",19
+"GR","Greece",2000,"m","65+",46
+"GR","Greece",2000,"f","0-14",0
+"GR","Greece",2000,"f","15-24",2
+"GR","Greece",2000,"f","25-34",9
+"GR","Greece",2000,"f","35-44",10
+"GR","Greece",2000,"f","45-54",5
+"GR","Greece",2000,"f","55-64",6
+"GR","Greece",2000,"f","65+",25
+"GT","Guatemala",2000,"m","0-14",36
+"GT","Guatemala",2000,"m","15-24",220
+"GT","Guatemala",2000,"m","25-34",236
+"GT","Guatemala",2000,"m","35-44",216
+"GT","Guatemala",2000,"m","45-54",177
+"GT","Guatemala",2000,"m","55-64",112
+"GT","Guatemala",2000,"m","65+",140
+"GT","Guatemala",2000,"f","0-14",41
+"GT","Guatemala",2000,"f","15-24",199
+"GT","Guatemala",2000,"f","25-34",167
+"GT","Guatemala",2000,"f","35-44",175
+"GT","Guatemala",2000,"f","45-54",135
+"GT","Guatemala",2000,"f","55-64",87
+"GT","Guatemala",2000,"f","65+",111
+"GU","Guam",2000,"m","0-14",2
+"GU","Guam",2000,"m","15-24",1
+"GU","Guam",2000,"m","25-34",6
+"GU","Guam",2000,"m","35-44",6
+"GU","Guam",2000,"m","45-54",9
+"GU","Guam",2000,"m","55-64",6
+"GU","Guam",2000,"m","65+",9
+"GU","Guam",2000,"f","0-14",0
+"GU","Guam",2000,"f","15-24",3
+"GU","Guam",2000,"f","25-34",1
+"GU","Guam",2000,"f","35-44",2
+"GU","Guam",2000,"f","45-54",5
+"GU","Guam",2000,"f","55-64",2
+"GU","Guam",2000,"f","65+",2
+"GW","Guinea-Bissau",2000,"m","0-14",2
+"GW","Guinea-Bissau",2000,"m","15-24",52
+"GW","Guinea-Bissau",2000,"m","25-34",92
+"GW","Guinea-Bissau",2000,"m","35-44",80
+"GW","Guinea-Bissau",2000,"m","45-54",64
+"GW","Guinea-Bissau",2000,"m","55-64",39
+"GW","Guinea-Bissau",2000,"m","65+",19
+"GW","Guinea-Bissau",2000,"f","0-14",4
+"GW","Guinea-Bissau",2000,"f","15-24",30
+"GW","Guinea-Bissau",2000,"f","25-34",46
+"GW","Guinea-Bissau",2000,"f","35-44",47
+"GW","Guinea-Bissau",2000,"f","45-54",24
+"GW","Guinea-Bissau",2000,"f","55-64",15
+"GW","Guinea-Bissau",2000,"f","65+",12
+"GY","Guyana",2000,"m","0-14",4
+"GY","Guyana",2000,"m","15-24",20
+"GY","Guyana",2000,"m","25-34",19
+"GY","Guyana",2000,"m","35-44",14
+"GY","Guyana",2000,"m","45-54",7
+"GY","Guyana",2000,"m","55-64",6
+"GY","Guyana",2000,"m","65+",9
+"GY","Guyana",2000,"f","0-14",1
+"GY","Guyana",2000,"f","15-24",11
+"GY","Guyana",2000,"f","25-34",8
+"GY","Guyana",2000,"f","35-44",7
+"GY","Guyana",2000,"f","45-54",5
+"GY","Guyana",2000,"f","55-64",5
+"GY","Guyana",2000,"f","65+",3
+"HK","Hong Kong SAR China",2000,"m","0-14",4
+"HK","Hong Kong SAR China",2000,"m","15-24",78
+"HK","Hong Kong SAR China",2000,"m","25-34",102
+"HK","Hong Kong SAR China",2000,"m","35-44",160
+"HK","Hong Kong SAR China",2000,"m","45-54",211
+"HK","Hong Kong SAR China",2000,"m","55-64",236
+"HK","Hong Kong SAR China",2000,"m","65+",578
+"HK","Hong Kong SAR China",2000,"f","0-14",5
+"HK","Hong Kong SAR China",2000,"f","15-24",65
+"HK","Hong Kong SAR China",2000,"f","25-34",115
+"HK","Hong Kong SAR China",2000,"f","35-44",86
+"HK","Hong Kong SAR China",2000,"f","45-54",44
+"HK","Hong Kong SAR China",2000,"f","55-64",45
+"HK","Hong Kong SAR China",2000,"f","65+",211
+"HN","Honduras",2000,"m","0-14",30
+"HN","Honduras",2000,"m","15-24",123
+"HN","Honduras",2000,"m","25-34",371
+"HN","Honduras",2000,"m","35-44",246
+"HN","Honduras",2000,"m","45-54",277
+"HN","Honduras",2000,"m","55-64",214
+"HN","Honduras",2000,"m","65+",43
+"HN","Honduras",2000,"f","0-14",25
+"HN","Honduras",2000,"f","15-24",21
+"HN","Honduras",2000,"f","25-34",269
+"HN","Honduras",2000,"f","35-44",258
+"HN","Honduras",2000,"f","45-54",270
+"HN","Honduras",2000,"f","55-64",160
+"HN","Honduras",2000,"f","65+",38
+"HT","Haiti",2000,"m","0-14",67
+"HT","Haiti",2000,"m","15-24",836
+"HT","Haiti",2000,"m","25-34",898
+"HT","Haiti",2000,"m","35-44",613
+"HT","Haiti",2000,"m","45-54",350
+"HT","Haiti",2000,"m","55-64",147
+"HT","Haiti",2000,"m","65+",118
+"HT","Haiti",2000,"f","0-14",96
+"HT","Haiti",2000,"f","15-24",914
+"HT","Haiti",2000,"f","25-34",857
+"HT","Haiti",2000,"f","35-44",513
+"HT","Haiti",2000,"f","45-54",275
+"HT","Haiti",2000,"f","55-64",132
+"HT","Haiti",2000,"f","65+",71
+"HU","Hungary",2000,"m","0-14",0
+"HU","Hungary",2000,"m","15-24",8
+"HU","Hungary",2000,"m","25-34",24
+"HU","Hungary",2000,"m","35-44",85
+"HU","Hungary",2000,"m","45-54",104
+"HU","Hungary",2000,"m","55-64",58
+"HU","Hungary",2000,"m","65+",27
+"HU","Hungary",2000,"f","0-14",1
+"HU","Hungary",2000,"f","15-24",7
+"HU","Hungary",2000,"f","25-34",17
+"HU","Hungary",2000,"f","35-44",19
+"HU","Hungary",2000,"f","45-54",22
+"HU","Hungary",2000,"f","55-64",10
+"HU","Hungary",2000,"f","65+",30
+"IE","Ireland",2000,"m","0-14",0
+"IE","Ireland",2000,"m","15-24",10
+"IE","Ireland",2000,"m","25-34",7
+"IE","Ireland",2000,"m","35-44",7
+"IE","Ireland",2000,"m","45-54",6
+"IE","Ireland",2000,"m","55-64",4
+"IE","Ireland",2000,"m","65+",12
+"IE","Ireland",2000,"f","0-14",0
+"IE","Ireland",2000,"f","15-24",13
+"IE","Ireland",2000,"f","25-34",8
+"IE","Ireland",2000,"f","35-44",13
+"IE","Ireland",2000,"f","45-54",6
+"IE","Ireland",2000,"f","55-64",7
+"IE","Ireland",2000,"f","65+",15
+"IL","Israel",2000,"m","0-14",0
+"IL","Israel",2000,"m","15-24",16
+"IL","Israel",2000,"m","25-34",28
+"IL","Israel",2000,"m","35-44",17
+"IL","Israel",2000,"m","45-54",24
+"IL","Israel",2000,"m","55-64",10
+"IL","Israel",2000,"m","65+",31
+"IL","Israel",2000,"f","0-14",2
+"IL","Israel",2000,"f","15-24",11
+"IL","Israel",2000,"f","25-34",15
+"IL","Israel",2000,"f","35-44",7
+"IL","Israel",2000,"f","45-54",3
+"IL","Israel",2000,"f","55-64",7
+"IL","Israel",2000,"f","65+",25
+"IN","India",2000,"m","0-14",1588
+"IN","India",2000,"m","15-24",20963
+"IN","India",2000,"m","25-34",31090
+"IN","India",2000,"m","35-44",30829
+"IN","India",2000,"m","45-54",24230
+"IN","India",2000,"m","55-64",15308
+"IN","India",2000,"m","65+",8534
+"IN","India",2000,"f","0-14",2250
+"IN","India",2000,"f","15-24",14495
+"IN","India",2000,"f","25-34",17287
+"IN","India",2000,"f","35-44",11768
+"IN","India",2000,"f","45-54",7516
+"IN","India",2000,"f","55-64",4594
+"IN","India",2000,"f","65+",2697
+"IQ","Iraq",2000,"m","0-14",21
+"IQ","Iraq",2000,"m","15-24",627
+"IQ","Iraq",2000,"m","25-34",317
+"IQ","Iraq",2000,"m","35-44",297
+"IQ","Iraq",2000,"m","45-54",205
+"IQ","Iraq",2000,"m","55-64",135
+"IQ","Iraq",2000,"m","65+",101
+"IQ","Iraq",2000,"f","0-14",37
+"IQ","Iraq",2000,"f","15-24",338
+"IQ","Iraq",2000,"f","25-34",241
+"IQ","Iraq",2000,"f","35-44",136
+"IQ","Iraq",2000,"f","45-54",134
+"IQ","Iraq",2000,"f","55-64",103
+"IQ","Iraq",2000,"f","65+",87
+"IR","Iran",2000,"m","0-14",29
+"IR","Iran",2000,"m","15-24",438
+"IR","Iran",2000,"m","25-34",467
+"IR","Iran",2000,"m","35-44",387
+"IR","Iran",2000,"m","45-54",295
+"IR","Iran",2000,"m","55-64",344
+"IR","Iran",2000,"m","65+",642
+"IR","Iran",2000,"f","0-14",77
+"IR","Iran",2000,"f","15-24",593
+"IR","Iran",2000,"f","25-34",410
+"IR","Iran",2000,"f","35-44",322
+"IR","Iran",2000,"f","45-54",320
+"IR","Iran",2000,"f","55-64",407
+"IR","Iran",2000,"f","65+",647
+"IS","Iceland",2000,"f","0-14",0
+"IS","Iceland",2000,"f","25-34",1
+"IT","Italy",2000,"m","0-14",12
+"IT","Italy",2000,"m","15-24",63
+"IT","Italy",2000,"m","25-34",96
+"IT","Italy",2000,"m","35-44",75
+"IT","Italy",2000,"m","45-54",58
+"IT","Italy",2000,"m","55-64",54
+"IT","Italy",2000,"m","65+",112
+"IT","Italy",2000,"f","0-14",6
+"IT","Italy",2000,"f","15-24",38
+"IT","Italy",2000,"f","25-34",58
+"IT","Italy",2000,"f","35-44",33
+"IT","Italy",2000,"f","45-54",13
+"IT","Italy",2000,"f","55-64",19
+"IT","Italy",2000,"f","65+",39
+"JM","Jamaica",2000,"m","0-14",0
+"JM","Jamaica",2000,"m","15-24",6
+"JM","Jamaica",2000,"m","25-34",13
+"JM","Jamaica",2000,"m","35-44",13
+"JM","Jamaica",2000,"m","45-54",15
+"JM","Jamaica",2000,"m","55-64",6
+"JM","Jamaica",2000,"m","65+",5
+"JM","Jamaica",2000,"f","0-14",1
+"JM","Jamaica",2000,"f","15-24",8
+"JM","Jamaica",2000,"f","25-34",8
+"JM","Jamaica",2000,"f","35-44",7
+"JM","Jamaica",2000,"f","45-54",2
+"JM","Jamaica",2000,"f","55-64",5
+"JM","Jamaica",2000,"f","65+",1
+"JO","Jordan",2000,"m","0-14",0
+"JO","Jordan",2000,"m","15-24",8
+"JO","Jordan",2000,"m","25-34",16
+"JO","Jordan",2000,"m","35-44",13
+"JO","Jordan",2000,"m","45-54",9
+"JO","Jordan",2000,"m","55-64",14
+"JO","Jordan",2000,"m","65+",2
+"JO","Jordan",2000,"f","0-14",0
+"JO","Jordan",2000,"f","15-24",8
+"JO","Jordan",2000,"f","25-34",9
+"JO","Jordan",2000,"f","35-44",1
+"JO","Jordan",2000,"f","45-54",2
+"JO","Jordan",2000,"f","55-64",2
+"JO","Jordan",2000,"f","65+",5
+"JP","Japan",2000,"m","0-14",2
+"JP","Japan",2000,"m","15-24",246
+"JP","Japan",2000,"m","25-34",572
+"JP","Japan",2000,"m","35-44",676
+"JP","Japan",2000,"m","45-54",1494
+"JP","Japan",2000,"m","55-64",1509
+"JP","Japan",2000,"m","65+",3816
+"JP","Japan",2000,"f","0-14",5
+"JP","Japan",2000,"f","15-24",222
+"JP","Japan",2000,"f","25-34",464
+"JP","Japan",2000,"f","35-44",213
+"JP","Japan",2000,"f","45-54",292
+"JP","Japan",2000,"f","55-64",384
+"JP","Japan",2000,"f","65+",1958
+"KE","Kenya",2000,"m","0-14",264
+"KE","Kenya",2000,"m","15-24",3739
+"KE","Kenya",2000,"m","25-34",6653
+"KE","Kenya",2000,"m","35-44",3548
+"KE","Kenya",2000,"m","45-54",1630
+"KE","Kenya",2000,"m","55-64",630
+"KE","Kenya",2000,"m","65+",414
+"KE","Kenya",2000,"f","0-14",416
+"KE","Kenya",2000,"f","15-24",3916
+"KE","Kenya",2000,"f","25-34",4363
+"KE","Kenya",2000,"f","35-44",1874
+"KE","Kenya",2000,"f","45-54",831
+"KE","Kenya",2000,"f","55-64",347
+"KE","Kenya",2000,"f","65+",148
+"KG","Kyrgyzstan",2000,"m","0-14",4
+"KG","Kyrgyzstan",2000,"m","15-24",128
+"KG","Kyrgyzstan",2000,"m","25-34",227
+"KG","Kyrgyzstan",2000,"m","35-44",205
+"KG","Kyrgyzstan",2000,"m","45-54",115
+"KG","Kyrgyzstan",2000,"m","55-64",52
+"KG","Kyrgyzstan",2000,"m","65+",46
+"KG","Kyrgyzstan",2000,"f","0-14",6
+"KG","Kyrgyzstan",2000,"f","15-24",128
+"KG","Kyrgyzstan",2000,"f","25-34",146
+"KG","Kyrgyzstan",2000,"f","35-44",100
+"KG","Kyrgyzstan",2000,"f","45-54",41
+"KG","Kyrgyzstan",2000,"f","55-64",30
+"KG","Kyrgyzstan",2000,"f","65+",29
+"KH","Cambodia",2000,"m","0-14",26
+"KH","Cambodia",2000,"m","15-24",519
+"KH","Cambodia",2000,"m","25-34",1323
+"KH","Cambodia",2000,"m","35-44",1618
+"KH","Cambodia",2000,"m","45-54",1456
+"KH","Cambodia",2000,"m","55-64",1373
+"KH","Cambodia",2000,"m","65+",1058
+"KH","Cambodia",2000,"f","0-14",38
+"KH","Cambodia",2000,"f","15-24",457
+"KH","Cambodia",2000,"f","25-34",1157
+"KH","Cambodia",2000,"f","35-44",1649
+"KH","Cambodia",2000,"f","45-54",1798
+"KH","Cambodia",2000,"f","55-64",1459
+"KH","Cambodia",2000,"f","65+",892
+"KI","Kiribati",2000,"m","0-14",2
+"KI","Kiribati",2000,"m","15-24",9
+"KI","Kiribati",2000,"m","25-34",3
+"KI","Kiribati",2000,"m","35-44",3
+"KI","Kiribati",2000,"m","45-54",3
+"KI","Kiribati",2000,"m","55-64",8
+"KI","Kiribati",2000,"m","65+",2
+"KI","Kiribati",2000,"f","0-14",2
+"KI","Kiribati",2000,"f","15-24",5
+"KI","Kiribati",2000,"f","25-34",6
+"KI","Kiribati",2000,"f","35-44",3
+"KI","Kiribati",2000,"f","45-54",4
+"KI","Kiribati",2000,"f","55-64",1
+"KI","Kiribati",2000,"f","65+",3
+"KM","Comoros",2000,"m","0-14",0
+"KM","Comoros",2000,"m","15-24",18
+"KM","Comoros",2000,"m","25-34",7
+"KM","Comoros",2000,"m","35-44",14
+"KM","Comoros",2000,"m","45-54",9
+"KM","Comoros",2000,"m","55-64",3
+"KM","Comoros",2000,"m","65+",4
+"KM","Comoros",2000,"f","0-14",1
+"KM","Comoros",2000,"f","15-24",9
+"KM","Comoros",2000,"f","25-34",6
+"KM","Comoros",2000,"f","35-44",12
+"KM","Comoros",2000,"f","45-54",1
+"KM","Comoros",2000,"f","55-64",2
+"KM","Comoros",2000,"f","65+",1
+"KP","North Korea",2000,"m","0-14",293
+"KP","North Korea",2000,"m","15-24",928
+"KP","North Korea",2000,"m","25-34",1508
+"KP","North Korea",2000,"m","35-44",2927
+"KP","North Korea",2000,"m","45-54",2519
+"KP","North Korea",2000,"m","55-64",1167
+"KP","North Korea",2000,"m","65+",651
+"KP","North Korea",2000,"f","0-14",167
+"KP","North Korea",2000,"f","15-24",683
+"KP","North Korea",2000,"f","25-34",1121
+"KP","North Korea",2000,"f","35-44",2004
+"KP","North Korea",2000,"f","45-54",1524
+"KP","North Korea",2000,"f","55-64",591
+"KP","North Korea",2000,"f","65+",357
+"KR","South Korea",2000,"m","0-14",19
+"KR","South Korea",2000,"m","15-24",821
+"KR","South Korea",2000,"m","25-34",1085
+"KR","South Korea",2000,"m","35-44",988
+"KR","South Korea",2000,"m","45-54",853
+"KR","South Korea",2000,"m","55-64",731
+"KR","South Korea",2000,"m","65+",901
+"KR","South Korea",2000,"f","0-14",25
+"KR","South Korea",2000,"f","15-24",546
+"KR","South Korea",2000,"f","25-34",544
+"KR","South Korea",2000,"f","35-44",393
+"KR","South Korea",2000,"f","45-54",220
+"KR","South Korea",2000,"f","55-64",295
+"KR","South Korea",2000,"f","65+",795
+"KW","Kuwait",2000,"m","0-14",0
+"KW","Kuwait",2000,"m","15-24",10
+"KW","Kuwait",2000,"m","25-34",44
+"KW","Kuwait",2000,"m","35-44",32
+"KW","Kuwait",2000,"m","45-54",21
+"KW","Kuwait",2000,"m","55-64",11
+"KW","Kuwait",2000,"m","65+",5
+"KW","Kuwait",2000,"f","0-14",1
+"KW","Kuwait",2000,"f","15-24",11
+"KW","Kuwait",2000,"f","25-34",24
+"KW","Kuwait",2000,"f","35-44",12
+"KW","Kuwait",2000,"f","45-54",5
+"KW","Kuwait",2000,"f","55-64",3
+"KW","Kuwait",2000,"f","65+",1
+"KY","Cayman Islands",2000,"m","0-14",0
+"KY","Cayman Islands",2000,"m","15-24",0
+"KY","Cayman Islands",2000,"m","25-34",3
+"KY","Cayman Islands",2000,"m","35-44",1
+"KY","Cayman Islands",2000,"m","45-54",0
+"KY","Cayman Islands",2000,"m","55-64",1
+"KY","Cayman Islands",2000,"m","65+",0
+"KZ","Kazakhstan",2000,"m","0-14",36
+"KZ","Kazakhstan",2000,"m","15-24",1057
+"KZ","Kazakhstan",2000,"m","25-34",1409
+"KZ","Kazakhstan",2000,"m","35-44",1379
+"KZ","Kazakhstan",2000,"m","45-54",923
+"KZ","Kazakhstan",2000,"m","55-64",439
+"KZ","Kazakhstan",2000,"m","65+",218
+"KZ","Kazakhstan",2000,"f","0-14",84
+"KZ","Kazakhstan",2000,"f","15-24",999
+"KZ","Kazakhstan",2000,"f","25-34",1079
+"KZ","Kazakhstan",2000,"f","35-44",599
+"KZ","Kazakhstan",2000,"f","45-54",275
+"KZ","Kazakhstan",2000,"f","55-64",202
+"KZ","Kazakhstan",2000,"f","65+",204
+"LA","Laos",2000,"m","0-14",7
+"LA","Laos",2000,"m","15-24",92
+"LA","Laos",2000,"m","25-34",128
+"LA","Laos",2000,"m","35-44",166
+"LA","Laos",2000,"m","45-54",201
+"LA","Laos",2000,"m","55-64",177
+"LA","Laos",2000,"m","65+",176
+"LA","Laos",2000,"f","0-14",10
+"LA","Laos",2000,"f","15-24",59
+"LA","Laos",2000,"f","25-34",95
+"LA","Laos",2000,"f","35-44",131
+"LA","Laos",2000,"f","45-54",122
+"LA","Laos",2000,"f","55-64",91
+"LA","Laos",2000,"f","65+",71
+"LB","Lebanon",2000,"m","0-14",5
+"LB","Lebanon",2000,"m","15-24",16
+"LB","Lebanon",2000,"m","25-34",28
+"LB","Lebanon",2000,"m","35-44",20
+"LB","Lebanon",2000,"m","45-54",15
+"LB","Lebanon",2000,"m","55-64",17
+"LB","Lebanon",2000,"m","65+",14
+"LB","Lebanon",2000,"f","0-14",4
+"LB","Lebanon",2000,"f","15-24",31
+"LB","Lebanon",2000,"f","25-34",26
+"LB","Lebanon",2000,"f","35-44",9
+"LB","Lebanon",2000,"f","45-54",7
+"LB","Lebanon",2000,"f","55-64",4
+"LB","Lebanon",2000,"f","65+",6
+"LC","St. Lucia",2000,"m","0-14",0
+"LC","St. Lucia",2000,"m","15-24",0
+"LC","St. Lucia",2000,"m","25-34",0
+"LC","St. Lucia",2000,"m","35-44",1
+"LC","St. Lucia",2000,"m","45-54",0
+"LC","St. Lucia",2000,"m","55-64",1
+"LC","St. Lucia",2000,"m","65+",2
+"LC","St. Lucia",2000,"f","0-14",0
+"LC","St. Lucia",2000,"f","15-24",1
+"LC","St. Lucia",2000,"f","25-34",0
+"LC","St. Lucia",2000,"f","35-44",1
+"LC","St. Lucia",2000,"f","45-54",0
+"LC","St. Lucia",2000,"f","55-64",1
+"LC","St. Lucia",2000,"f","65+",0
+"LK","Sri Lanka",2000,"m","0-14",25
+"LK","Sri Lanka",2000,"m","15-24",266
+"LK","Sri Lanka",2000,"m","25-34",459
+"LK","Sri Lanka",2000,"m","35-44",695
+"LK","Sri Lanka",2000,"m","45-54",793
+"LK","Sri Lanka",2000,"m","55-64",484
+"LK","Sri Lanka",2000,"m","65+",360
+"LK","Sri Lanka",2000,"f","0-14",23
+"LK","Sri Lanka",2000,"f","15-24",312
+"LK","Sri Lanka",2000,"f","25-34",264
+"LK","Sri Lanka",2000,"f","35-44",176
+"LK","Sri Lanka",2000,"f","45-54",202
+"LK","Sri Lanka",2000,"f","55-64",144
+"LK","Sri Lanka",2000,"f","65+",113
+"LR","Liberia",2000,"m","0-14",12
+"LR","Liberia",2000,"m","15-24",133
+"LR","Liberia",2000,"m","25-34",196
+"LR","Liberia",2000,"m","35-44",127
+"LR","Liberia",2000,"m","45-54",52
+"LR","Liberia",2000,"m","55-64",17
+"LR","Liberia",2000,"m","65+",26
+"LR","Liberia",2000,"f","0-14",21
+"LR","Liberia",2000,"f","15-24",140
+"LR","Liberia",2000,"f","25-34",149
+"LR","Liberia",2000,"f","35-44",88
+"LR","Liberia",2000,"f","45-54",28
+"LR","Liberia",2000,"f","55-64",16
+"LR","Liberia",2000,"f","65+",16
+"LS","Lesotho",2000,"m","0-14",8
+"LS","Lesotho",2000,"m","15-24",165
+"LS","Lesotho",2000,"m","25-34",458
+"LS","Lesotho",2000,"m","35-44",517
+"LS","Lesotho",2000,"m","45-54",395
+"LS","Lesotho",2000,"m","55-64",198
+"LS","Lesotho",2000,"m","65+",76
+"LS","Lesotho",2000,"f","0-14",11
+"LS","Lesotho",2000,"f","15-24",222
+"LS","Lesotho",2000,"f","25-34",336
+"LS","Lesotho",2000,"f","35-44",195
+"LS","Lesotho",2000,"f","45-54",83
+"LS","Lesotho",2000,"f","55-64",36
+"LS","Lesotho",2000,"f","65+",29
+"LT","Lithuania",2000,"m","0-14",1
+"LT","Lithuania",2000,"m","15-24",38
+"LT","Lithuania",2000,"m","25-34",97
+"LT","Lithuania",2000,"m","35-44",145
+"LT","Lithuania",2000,"m","45-54",155
+"LT","Lithuania",2000,"m","55-64",74
+"LT","Lithuania",2000,"m","65+",68
+"LT","Lithuania",2000,"f","0-14",0
+"LT","Lithuania",2000,"f","15-24",20
+"LT","Lithuania",2000,"f","25-34",37
+"LT","Lithuania",2000,"f","35-44",39
+"LT","Lithuania",2000,"f","45-54",32
+"LT","Lithuania",2000,"f","55-64",22
+"LT","Lithuania",2000,"f","65+",48
+"LV","Latvia",2000,"m","0-14",0
+"LV","Latvia",2000,"m","15-24",53
+"LV","Latvia",2000,"m","25-34",106
+"LV","Latvia",2000,"m","35-44",124
+"LV","Latvia",2000,"m","45-54",111
+"LV","Latvia",2000,"m","55-64",64
+"LV","Latvia",2000,"m","65+",34
+"LV","Latvia",2000,"f","0-14",2
+"LV","Latvia",2000,"f","15-24",25
+"LV","Latvia",2000,"f","25-34",41
+"LV","Latvia",2000,"f","35-44",27
+"LV","Latvia",2000,"f","45-54",28
+"LV","Latvia",2000,"f","55-64",7
+"LV","Latvia",2000,"f","65+",15
+"LY","Libya",2000,"m","0-14",5
+"LY","Libya",2000,"m","15-24",101
+"LY","Libya",2000,"m","25-34",239
+"LY","Libya",2000,"m","35-44",86
+"LY","Libya",2000,"m","45-54",36
+"LY","Libya",2000,"m","55-64",29
+"LY","Libya",2000,"m","65+",32
+"LY","Libya",2000,"f","0-14",6
+"LY","Libya",2000,"f","15-24",43
+"LY","Libya",2000,"f","25-34",35
+"LY","Libya",2000,"f","35-44",24
+"LY","Libya",2000,"f","45-54",24
+"LY","Libya",2000,"f","55-64",16
+"LY","Libya",2000,"f","65+",22
+"MA","Morocco",2000,"m","0-14",99
+"MA","Morocco",2000,"m","15-24",2061
+"MA","Morocco",2000,"m","25-34",2423
+"MA","Morocco",2000,"m","35-44",1705
+"MA","Morocco",2000,"m","45-54",855
+"MA","Morocco",2000,"m","55-64",485
+"MA","Morocco",2000,"m","65+",595
+"MA","Morocco",2000,"f","0-14",170
+"MA","Morocco",2000,"f","15-24",1530
+"MA","Morocco",2000,"f","25-34",1121
+"MA","Morocco",2000,"f","35-44",672
+"MA","Morocco",2000,"f","45-54",398
+"MA","Morocco",2000,"f","55-64",406
+"MA","Morocco",2000,"f","65+",352
+"MD","Moldova",2000,"m","0-14",2
+"MD","Moldova",2000,"m","15-24",52
+"MD","Moldova",2000,"m","25-34",31
+"MD","Moldova",2000,"m","35-44",36
+"MD","Moldova",2000,"m","45-54",13
+"MD","Moldova",2000,"m","55-64",13
+"MD","Moldova",2000,"m","65+",6
+"MD","Moldova",2000,"f","0-14",1
+"MD","Moldova",2000,"f","15-24",16
+"MD","Moldova",2000,"f","25-34",32
+"MD","Moldova",2000,"f","35-44",45
+"MD","Moldova",2000,"f","45-54",23
+"MD","Moldova",2000,"f","55-64",14
+"MD","Moldova",2000,"f","65+",6
+"MH","Marshall Islands",2000,"m","0-14",3
+"MH","Marshall Islands",2000,"m","15-24",5
+"MH","Marshall Islands",2000,"m","25-34",4
+"MH","Marshall Islands",2000,"m","35-44",1
+"MH","Marshall Islands",2000,"m","45-54",3
+"MH","Marshall Islands",2000,"m","55-64",5
+"MH","Marshall Islands",2000,"m","65+",3
+"MH","Marshall Islands",2000,"f","0-14",7
+"MH","Marshall Islands",2000,"f","15-24",7
+"MH","Marshall Islands",2000,"f","25-34",3
+"MH","Marshall Islands",2000,"f","35-44",0
+"MH","Marshall Islands",2000,"f","45-54",2
+"MH","Marshall Islands",2000,"f","55-64",2
+"MH","Marshall Islands",2000,"f","65+",0
+"MK","North Macedonia",2000,"m","0-14",5
+"MK","North Macedonia",2000,"m","15-24",8
+"MK","North Macedonia",2000,"m","25-34",14
+"MK","North Macedonia",2000,"m","35-44",20
+"MK","North Macedonia",2000,"m","45-54",19
+"MK","North Macedonia",2000,"m","55-64",20
+"MK","North Macedonia",2000,"m","65+",14
+"MK","North Macedonia",2000,"f","0-14",1
+"MK","North Macedonia",2000,"f","15-24",15
+"MK","North Macedonia",2000,"f","25-34",14
+"MK","North Macedonia",2000,"f","35-44",17
+"MK","North Macedonia",2000,"f","45-54",5
+"MK","North Macedonia",2000,"f","55-64",5
+"MK","North Macedonia",2000,"f","65+",10
+"ML","Mali",2000,"m","0-14",23
+"ML","Mali",2000,"m","15-24",206
+"ML","Mali",2000,"m","25-34",430
+"ML","Mali",2000,"m","35-44",396
+"ML","Mali",2000,"m","45-54",297
+"ML","Mali",2000,"m","55-64",235
+"ML","Mali",2000,"m","65+",144
+"ML","Mali",2000,"f","0-14",14
+"ML","Mali",2000,"f","15-24",174
+"ML","Mali",2000,"f","25-34",232
+"ML","Mali",2000,"f","35-44",152
+"ML","Mali",2000,"f","45-54",106
+"ML","Mali",2000,"f","55-64",75
+"ML","Mali",2000,"f","65+",43
+"MM","Myanmar (Burma)",2000,"m","0-14",88
+"MM","Myanmar (Burma)",2000,"m","15-24",1459
+"MM","Myanmar (Burma)",2000,"m","25-34",2636
+"MM","Myanmar (Burma)",2000,"m","35-44",2781
+"MM","Myanmar (Burma)",2000,"m","45-54",2161
+"MM","Myanmar (Burma)",2000,"m","55-64",1235
+"MM","Myanmar (Burma)",2000,"m","65+",836
+"MM","Myanmar (Burma)",2000,"f","0-14",72
+"MM","Myanmar (Burma)",2000,"f","15-24",1040
+"MM","Myanmar (Burma)",2000,"f","25-34",1592
+"MM","Myanmar (Burma)",2000,"f","35-44",1397
+"MM","Myanmar (Burma)",2000,"f","45-54",987
+"MM","Myanmar (Burma)",2000,"f","55-64",592
+"MM","Myanmar (Burma)",2000,"f","65+",378
+"MN","Mongolia",2000,"m","0-14",6
+"MN","Mongolia",2000,"m","15-24",181
+"MN","Mongolia",2000,"m","25-34",260
+"MN","Mongolia",2000,"m","35-44",171
+"MN","Mongolia",2000,"m","45-54",68
+"MN","Mongolia",2000,"m","55-64",38
+"MN","Mongolia",2000,"m","65+",23
+"MN","Mongolia",2000,"f","0-14",32
+"MN","Mongolia",2000,"f","15-24",200
+"MN","Mongolia",2000,"f","25-34",213
+"MN","Mongolia",2000,"f","35-44",113
+"MN","Mongolia",2000,"f","45-54",41
+"MN","Mongolia",2000,"f","55-64",26
+"MN","Mongolia",2000,"f","65+",17
+"MO","Macao SAR China",2000,"m","0-14",0
+"MO","Macao SAR China",2000,"m","15-24",10
+"MO","Macao SAR China",2000,"m","25-34",8
+"MO","Macao SAR China",2000,"m","35-44",25
+"MO","Macao SAR China",2000,"m","45-54",22
+"MO","Macao SAR China",2000,"m","55-64",9
+"MO","Macao SAR China",2000,"m","65+",17
+"MO","Macao SAR China",2000,"f","0-14",0
+"MO","Macao SAR China",2000,"f","15-24",10
+"MO","Macao SAR China",2000,"f","25-34",4
+"MO","Macao SAR China",2000,"f","35-44",6
+"MO","Macao SAR China",2000,"f","45-54",6
+"MO","Macao SAR China",2000,"f","55-64",3
+"MO","Macao SAR China",2000,"f","65+",13
+"MP","Northern Mariana Islands",2000,"m","0-14",1
+"MP","Northern Mariana Islands",2000,"m","15-24",4
+"MP","Northern Mariana Islands",2000,"m","25-34",8
+"MP","Northern Mariana Islands",2000,"m","35-44",9
+"MP","Northern Mariana Islands",2000,"m","45-54",9
+"MP","Northern Mariana Islands",2000,"m","55-64",3
+"MP","Northern Mariana Islands",2000,"m","65+",2
+"MP","Northern Mariana Islands",2000,"f","0-14",0
+"MP","Northern Mariana Islands",2000,"f","15-24",10
+"MP","Northern Mariana Islands",2000,"f","25-34",17
+"MP","Northern Mariana Islands",2000,"f","35-44",7
+"MP","Northern Mariana Islands",2000,"f","45-54",3
+"MP","Northern Mariana Islands",2000,"f","55-64",1
+"MP","Northern Mariana Islands",2000,"f","65+",1
+"MT","Malta",2000,"m","0-14",0
+"MT","Malta",2000,"m","15-24",1
+"MT","Malta",2000,"m","25-34",0
+"MT","Malta",2000,"m","35-44",1
+"MT","Malta",2000,"m","45-54",1
+"MT","Malta",2000,"m","55-64",0
+"MT","Malta",2000,"m","65+",1
+"MU","Mauritius",2000,"m","0-14",2
+"MU","Mauritius",2000,"m","15-24",6
+"MU","Mauritius",2000,"m","25-34",9
+"MU","Mauritius",2000,"m","35-44",18
+"MU","Mauritius",2000,"m","45-54",19
+"MU","Mauritius",2000,"m","55-64",14
+"MU","Mauritius",2000,"m","65+",8
+"MU","Mauritius",2000,"f","0-14",1
+"MU","Mauritius",2000,"f","15-24",5
+"MU","Mauritius",2000,"f","25-34",8
+"MU","Mauritius",2000,"f","35-44",8
+"MU","Mauritius",2000,"f","45-54",6
+"MU","Mauritius",2000,"f","55-64",7
+"MU","Mauritius",2000,"f","65+",4
+"MV","Maldives",2000,"m","0-14",0
+"MV","Maldives",2000,"m","15-24",9
+"MV","Maldives",2000,"m","25-34",10
+"MV","Maldives",2000,"m","35-44",2
+"MV","Maldives",2000,"m","45-54",5
+"MV","Maldives",2000,"m","55-64",5
+"MV","Maldives",2000,"m","65+",3
+"MV","Maldives",2000,"f","0-14",0
+"MV","Maldives",2000,"f","15-24",11
+"MV","Maldives",2000,"f","25-34",4
+"MV","Maldives",2000,"f","35-44",5
+"MV","Maldives",2000,"f","45-54",4
+"MV","Maldives",2000,"f","55-64",5
+"MV","Maldives",2000,"f","65+",2
+"MW","Malawi",2000,"m","0-14",50
+"MW","Malawi",2000,"m","15-24",653
+"MW","Malawi",2000,"m","25-34",1476
+"MW","Malawi",2000,"m","35-44",1113
+"MW","Malawi",2000,"m","45-54",585
+"MW","Malawi",2000,"m","55-64",245
+"MW","Malawi",2000,"m","65+",114
+"MW","Malawi",2000,"f","0-14",66
+"MW","Malawi",2000,"f","15-24",1038
+"MW","Malawi",2000,"f","25-34",1481
+"MW","Malawi",2000,"f","35-44",831
+"MW","Malawi",2000,"f","45-54",401
+"MW","Malawi",2000,"f","55-64",148
+"MW","Malawi",2000,"f","65+",64
+"MX","Mexico",2000,"m","0-14",214
+"MX","Mexico",2000,"m","15-24",1079
+"MX","Mexico",2000,"m","25-34",1387
+"MX","Mexico",2000,"m","35-44",1162
+"MX","Mexico",2000,"m","45-54",1235
+"MX","Mexico",2000,"m","55-64",972
+"MX","Mexico",2000,"m","65+",1126
+"MX","Mexico",2000,"f","0-14",176
+"MX","Mexico",2000,"f","15-24",663
+"MX","Mexico",2000,"f","25-34",828
+"MX","Mexico",2000,"f","35-44",698
+"MX","Mexico",2000,"f","45-54",832
+"MX","Mexico",2000,"f","55-64",595
+"MX","Mexico",2000,"f","65+",709
+"MY","Malaysia",2000,"m","0-14",32
+"MY","Malaysia",2000,"m","15-24",694
+"MY","Malaysia",2000,"m","25-34",1138
+"MY","Malaysia",2000,"m","35-44",1177
+"MY","Malaysia",2000,"m","45-54",908
+"MY","Malaysia",2000,"m","55-64",814
+"MY","Malaysia",2000,"m","65+",891
+"MY","Malaysia",2000,"f","0-14",41
+"MY","Malaysia",2000,"f","15-24",464
+"MY","Malaysia",2000,"f","25-34",564
+"MY","Malaysia",2000,"f","35-44",424
+"MY","Malaysia",2000,"f","45-54",367
+"MY","Malaysia",2000,"f","55-64",356
+"MY","Malaysia",2000,"f","65+",286
+NA,NA,2000,"m","0-14",18
+NA,NA,2000,"m","15-24",269
+NA,NA,2000,"m","25-34",874
+NA,NA,2000,"m","35-44",665
+NA,NA,2000,"m","45-54",300
+NA,NA,2000,"m","55-64",147
+NA,NA,2000,"m","65+",81
+NA,NA,2000,"f","0-14",16
+NA,NA,2000,"f","15-24",352
+NA,NA,2000,"f","25-34",654
+NA,NA,2000,"f","35-44",348
+NA,NA,2000,"f","45-54",161
+NA,NA,2000,"f","55-64",76
+NA,NA,2000,"f","65+",52
+"NC","New Caledonia",2000,"m","0-14",1
+"NC","New Caledonia",2000,"m","15-24",1
+"NC","New Caledonia",2000,"m","25-34",3
+"NC","New Caledonia",2000,"m","35-44",4
+"NC","New Caledonia",2000,"m","45-54",2
+"NC","New Caledonia",2000,"m","55-64",3
+"NC","New Caledonia",2000,"m","65+",4
+"NC","New Caledonia",2000,"f","0-14",1
+"NC","New Caledonia",2000,"f","15-24",8
+"NC","New Caledonia",2000,"f","25-34",1
+"NC","New Caledonia",2000,"f","35-44",1
+"NC","New Caledonia",2000,"f","45-54",3
+"NC","New Caledonia",2000,"f","55-64",2
+"NC","New Caledonia",2000,"f","65+",4
+"NE","Niger",2000,"m","0-14",29
+"NE","Niger",2000,"m","15-24",270
+"NE","Niger",2000,"m","25-34",174
+"NE","Niger",2000,"m","35-44",441
+"NE","Niger",2000,"m","45-54",252
+"NE","Niger",2000,"m","55-64",151
+"NE","Niger",2000,"m","65+",78
+"NE","Niger",2000,"f","0-14",31
+"NE","Niger",2000,"f","15-24",123
+"NE","Niger",2000,"f","25-34",206
+"NE","Niger",2000,"f","35-44",168
+"NE","Niger",2000,"f","45-54",151
+"NE","Niger",2000,"f","55-64",63
+"NE","Niger",2000,"f","65+",9
+"NG","Nigeria",2000,"m","0-14",157
+"NG","Nigeria",2000,"m","15-24",2173
+"NG","Nigeria",2000,"m","25-34",3164
+"NG","Nigeria",2000,"m","35-44",1836
+"NG","Nigeria",2000,"m","45-54",1091
+"NG","Nigeria",2000,"m","55-64",566
+"NG","Nigeria",2000,"m","65+",463
+"NG","Nigeria",2000,"f","0-14",239
+"NG","Nigeria",2000,"f","15-24",2934
+"NG","Nigeria",2000,"f","25-34",2434
+"NG","Nigeria",2000,"f","35-44",1110
+"NG","Nigeria",2000,"f","45-54",676
+"NG","Nigeria",2000,"f","55-64",344
+"NG","Nigeria",2000,"f","65+",231
+"NI","Nicaragua",2000,"m","0-14",18
+"NI","Nicaragua",2000,"m","15-24",194
+"NI","Nicaragua",2000,"m","25-34",174
+"NI","Nicaragua",2000,"m","35-44",147
+"NI","Nicaragua",2000,"m","45-54",108
+"NI","Nicaragua",2000,"m","55-64",64
+"NI","Nicaragua",2000,"m","65+",90
+"NI","Nicaragua",2000,"f","0-14",34
+"NI","Nicaragua",2000,"f","15-24",188
+"NI","Nicaragua",2000,"f","25-34",173
+"NI","Nicaragua",2000,"f","35-44",98
+"NI","Nicaragua",2000,"f","45-54",76
+"NI","Nicaragua",2000,"f","55-64",46
+"NI","Nicaragua",2000,"f","65+",61
+"NL","Netherlands",2000,"m","0-14",0
+"NL","Netherlands",2000,"m","15-24",34
+"NL","Netherlands",2000,"m","25-34",63
+"NL","Netherlands",2000,"m","35-44",41
+"NL","Netherlands",2000,"m","45-54",25
+"NL","Netherlands",2000,"m","55-64",10
+"NL","Netherlands",2000,"m","65+",21
+"NL","Netherlands",2000,"f","0-14",4
+"NL","Netherlands",2000,"f","15-24",29
+"NL","Netherlands",2000,"f","25-34",22
+"NL","Netherlands",2000,"f","35-44",16
+"NL","Netherlands",2000,"f","45-54",9
+"NL","Netherlands",2000,"f","55-64",5
+"NL","Netherlands",2000,"f","65+",10
+"NO","Norway",2000,"m","0-14",0
+"NO","Norway",2000,"m","15-24",1
+"NO","Norway",2000,"m","25-34",9
+"NO","Norway",2000,"m","35-44",3
+"NO","Norway",2000,"m","45-54",6
+"NO","Norway",2000,"m","55-64",2
+"NO","Norway",2000,"m","65+",4
+"NO","Norway",2000,"f","0-14",1
+"NO","Norway",2000,"f","15-24",3
+"NO","Norway",2000,"f","25-34",1
+"NO","Norway",2000,"f","55-64",2
+"NO","Norway",2000,"f","65+",5
+"NP","Nepal",2000,"m","0-14",170
+"NP","Nepal",2000,"m","15-24",1904
+"NP","Nepal",2000,"m","25-34",1763
+"NP","Nepal",2000,"m","35-44",1713
+"NP","Nepal",2000,"m","45-54",1491
+"NP","Nepal",2000,"m","55-64",1294
+"NP","Nepal",2000,"m","65+",772
+"NP","Nepal",2000,"f","0-14",176
+"NP","Nepal",2000,"f","15-24",1267
+"NP","Nepal",2000,"f","25-34",1078
+"NP","Nepal",2000,"f","35-44",833
+"NP","Nepal",2000,"f","45-54",575
+"NP","Nepal",2000,"f","55-64",419
+"NP","Nepal",2000,"f","65+",228
+"NR","Nauru",2000,"m","45-54",1
+"NR","Nauru",2000,"f","45-54",1
+"NR","Nauru",2000,"f","55-64",1
+"NZ","New Zealand",2000,"m","0-14",0
+"NZ","New Zealand",2000,"m","15-24",6
+"NZ","New Zealand",2000,"m","25-34",5
+"NZ","New Zealand",2000,"m","35-44",6
+"NZ","New Zealand",2000,"m","45-54",8
+"NZ","New Zealand",2000,"m","55-64",10
+"NZ","New Zealand",2000,"m","65+",7
+"NZ","New Zealand",2000,"f","0-14",1
+"NZ","New Zealand",2000,"f","15-24",6
+"NZ","New Zealand",2000,"f","25-34",6
+"NZ","New Zealand",2000,"f","35-44",5
+"NZ","New Zealand",2000,"f","45-54",0
+"NZ","New Zealand",2000,"f","55-64",4
+"NZ","New Zealand",2000,"f","65+",10
+"OM","Oman",2000,"m","0-14",1
+"OM","Oman",2000,"m","15-24",8
+"OM","Oman",2000,"m","25-34",9
+"OM","Oman",2000,"m","35-44",11
+"OM","Oman",2000,"m","45-54",12
+"OM","Oman",2000,"m","55-64",9
+"OM","Oman",2000,"m","65+",11
+"OM","Oman",2000,"f","0-14",2
+"OM","Oman",2000,"f","15-24",17
+"OM","Oman",2000,"f","25-34",5
+"OM","Oman",2000,"f","35-44",7
+"OM","Oman",2000,"f","45-54",5
+"OM","Oman",2000,"f","55-64",11
+"OM","Oman",2000,"f","65+",6
+"PA","Panama",2000,"m","0-14",3
+"PA","Panama",2000,"m","15-24",44
+"PA","Panama",2000,"m","25-34",78
+"PA","Panama",2000,"m","35-44",61
+"PA","Panama",2000,"m","45-54",37
+"PA","Panama",2000,"m","55-64",27
+"PA","Panama",2000,"m","65+",26
+"PA","Panama",2000,"f","0-14",6
+"PA","Panama",2000,"f","15-24",43
+"PA","Panama",2000,"f","25-34",34
+"PA","Panama",2000,"f","35-44",35
+"PA","Panama",2000,"f","45-54",19
+"PA","Panama",2000,"f","55-64",12
+"PA","Panama",2000,"f","65+",16
+"PE","Peru",2000,"m","0-14",552
+"PE","Peru",2000,"m","15-24",5290
+"PE","Peru",2000,"m","25-34",2875
+"PE","Peru",2000,"m","35-44",1546
+"PE","Peru",2000,"m","45-54",1041
+"PE","Peru",2000,"m","55-64",801
+"PE","Peru",2000,"m","65+",796
+"PE","Peru",2000,"f","0-14",633
+"PE","Peru",2000,"f","15-24",3686
+"PE","Peru",2000,"f","25-34",2472
+"PE","Peru",2000,"f","35-44",1156
+"PE","Peru",2000,"f","45-54",609
+"PE","Peru",2000,"f","55-64",499
+"PE","Peru",2000,"f","65+",624
+"PF","French Polynesia",2000,"m","0-14",1
+"PF","French Polynesia",2000,"m","15-24",3
+"PF","French Polynesia",2000,"m","25-34",3
+"PF","French Polynesia",2000,"m","35-44",4
+"PF","French Polynesia",2000,"m","45-54",4
+"PF","French Polynesia",2000,"m","55-64",4
+"PF","French Polynesia",2000,"m","65+",3
+"PF","French Polynesia",2000,"f","0-14",1
+"PF","French Polynesia",2000,"f","15-24",4
+"PF","French Polynesia",2000,"f","25-34",1
+"PF","French Polynesia",2000,"f","35-44",0
+"PF","French Polynesia",2000,"f","45-54",1
+"PF","French Polynesia",2000,"f","55-64",0
+"PF","French Polynesia",2000,"f","65+",0
+"PG","Papua New Guinea",2000,"m","0-14",8
+"PG","Papua New Guinea",2000,"m","15-24",87
+"PG","Papua New Guinea",2000,"m","25-34",70
+"PG","Papua New Guinea",2000,"m","35-44",30
+"PG","Papua New Guinea",2000,"m","45-54",21
+"PG","Papua New Guinea",2000,"m","55-64",12
+"PG","Papua New Guinea",2000,"m","65+",5
+"PG","Papua New Guinea",2000,"f","0-14",6
+"PG","Papua New Guinea",2000,"f","15-24",77
+"PG","Papua New Guinea",2000,"f","25-34",45
+"PG","Papua New Guinea",2000,"f","35-44",21
+"PG","Papua New Guinea",2000,"f","45-54",15
+"PG","Papua New Guinea",2000,"f","55-64",5
+"PG","Papua New Guinea",2000,"f","65+",1
+"PK","Pakistan",2000,"m","0-14",55
+"PK","Pakistan",2000,"m","15-24",498
+"PK","Pakistan",2000,"m","25-34",387
+"PK","Pakistan",2000,"m","35-44",256
+"PK","Pakistan",2000,"m","45-54",232
+"PK","Pakistan",2000,"m","55-64",153
+"PK","Pakistan",2000,"m","65+",130
+"PK","Pakistan",2000,"f","0-14",130
+"PK","Pakistan",2000,"f","15-24",591
+"PK","Pakistan",2000,"f","25-34",416
+"PK","Pakistan",2000,"f","35-44",274
+"PK","Pakistan",2000,"f","45-54",163
+"PK","Pakistan",2000,"f","55-64",103
+"PK","Pakistan",2000,"f","65+",56
+"PL","Poland",2000,"m","0-14",1
+"PL","Poland",2000,"m","15-24",99
+"PL","Poland",2000,"m","25-34",303
+"PL","Poland",2000,"m","35-44",812
+"PL","Poland",2000,"m","45-54",782
+"PL","Poland",2000,"m","55-64",361
+"PL","Poland",2000,"m","65+",434
+"PL","Poland",2000,"f","0-14",1
+"PL","Poland",2000,"f","15-24",99
+"PL","Poland",2000,"f","25-34",158
+"PL","Poland",2000,"f","35-44",211
+"PL","Poland",2000,"f","45-54",170
+"PL","Poland",2000,"f","55-64",82
+"PL","Poland",2000,"f","65+",421
+"PR","Puerto Rico",2000,"m","0-14",0
+"PR","Puerto Rico",2000,"m","15-24",1
+"PR","Puerto Rico",2000,"m","25-34",4
+"PR","Puerto Rico",2000,"m","35-44",19
+"PR","Puerto Rico",2000,"m","45-54",9
+"PR","Puerto Rico",2000,"m","55-64",10
+"PR","Puerto Rico",2000,"m","65+",14
+"PR","Puerto Rico",2000,"f","0-14",1
+"PR","Puerto Rico",2000,"f","15-24",4
+"PR","Puerto Rico",2000,"f","25-34",5
+"PR","Puerto Rico",2000,"f","35-44",3
+"PR","Puerto Rico",2000,"f","45-54",7
+"PR","Puerto Rico",2000,"f","55-64",1
+"PR","Puerto Rico",2000,"f","65+",3
+"PT","Portugal",2000,"m","0-14",8
+"PT","Portugal",2000,"m","15-24",147
+"PT","Portugal",2000,"m","25-34",375
+"PT","Portugal",2000,"m","35-44",349
+"PT","Portugal",2000,"m","45-54",208
+"PT","Portugal",2000,"m","55-64",140
+"PT","Portugal",2000,"m","65+",140
+"PT","Portugal",2000,"f","0-14",5
+"PT","Portugal",2000,"f","15-24",114
+"PT","Portugal",2000,"f","25-34",154
+"PT","Portugal",2000,"f","35-44",87
+"PT","Portugal",2000,"f","45-54",41
+"PT","Portugal",2000,"f","55-64",25
+"PT","Portugal",2000,"f","65+",64
+"PY","Paraguay",2000,"m","0-14",16
+"PY","Paraguay",2000,"m","15-24",112
+"PY","Paraguay",2000,"m","25-34",103
+"PY","Paraguay",2000,"m","35-44",105
+"PY","Paraguay",2000,"m","45-54",86
+"PY","Paraguay",2000,"m","55-64",80
+"PY","Paraguay",2000,"m","65+",71
+"PY","Paraguay",2000,"f","0-14",12
+"PY","Paraguay",2000,"f","15-24",69
+"PY","Paraguay",2000,"f","25-34",86
+"PY","Paraguay",2000,"f","35-44",41
+"PY","Paraguay",2000,"f","45-54",41
+"PY","Paraguay",2000,"f","55-64",30
+"PY","Paraguay",2000,"f","65+",46
+"QA","Qatar",2000,"m","0-14",0
+"QA","Qatar",2000,"m","15-24",7
+"QA","Qatar",2000,"m","25-34",19
+"QA","Qatar",2000,"m","35-44",9
+"QA","Qatar",2000,"m","45-54",7
+"QA","Qatar",2000,"m","55-64",2
+"QA","Qatar",2000,"m","65+",1
+"QA","Qatar",2000,"f","0-14",0
+"QA","Qatar",2000,"f","15-24",0
+"QA","Qatar",2000,"f","25-34",4
+"QA","Qatar",2000,"f","35-44",3
+"QA","Qatar",2000,"f","45-54",1
+"QA","Qatar",2000,"f","55-64",0
+"QA","Qatar",2000,"f","65+",0
+"RO","Romania",2000,"m","0-14",46
+"RO","Romania",2000,"m","15-24",832
+"RO","Romania",2000,"m","25-34",1508
+"RO","Romania",2000,"m","35-44",1799
+"RO","Romania",2000,"m","45-54",1684
+"RO","Romania",2000,"m","55-64",916
+"RO","Romania",2000,"m","65+",533
+"RO","Romania",2000,"f","0-14",53
+"RO","Romania",2000,"f","15-24",701
+"RO","Romania",2000,"f","25-34",766
+"RO","Romania",2000,"f","35-44",484
+"RO","Romania",2000,"f","45-54",341
+"RO","Romania",2000,"f","55-64",207
+"RO","Romania",2000,"f","65+",321
+"RU","Russia",2000,"m","0-14",1
+"RU","Russia",2000,"m","15-24",295
+"RU","Russia",2000,"m","25-34",526
+"RU","Russia",2000,"m","35-44",596
+"RU","Russia",2000,"m","45-54",402
+"RU","Russia",2000,"m","55-64",151
+"RU","Russia",2000,"m","65+",54
+"RU","Russia",2000,"f","0-14",1
+"RU","Russia",2000,"f","15-24",43
+"RU","Russia",2000,"f","25-34",73
+"RU","Russia",2000,"f","35-44",74
+"RU","Russia",2000,"f","45-54",38
+"RU","Russia",2000,"f","55-64",31
+"RU","Russia",2000,"f","65+",44
+"RW","Rwanda",2000,"m","0-14",155
+"RW","Rwanda",2000,"m","15-24",466
+"RW","Rwanda",2000,"m","25-34",974
+"RW","Rwanda",2000,"m","35-44",824
+"RW","Rwanda",2000,"m","45-54",393
+"RW","Rwanda",2000,"m","55-64",129
+"RW","Rwanda",2000,"m","65+",56
+"RW","Rwanda",2000,"f","0-14",105
+"RW","Rwanda",2000,"f","15-24",396
+"RW","Rwanda",2000,"f","25-34",473
+"RW","Rwanda",2000,"f","35-44",309
+"RW","Rwanda",2000,"f","45-54",109
+"RW","Rwanda",2000,"f","55-64",52
+"RW","Rwanda",2000,"f","65+",14
+"SA","Saudi Arabia",2000,"m","0-14",0
+"SA","Saudi Arabia",2000,"m","15-24",131
+"SA","Saudi Arabia",2000,"m","25-34",268
+"SA","Saudi Arabia",2000,"m","35-44",213
+"SA","Saudi Arabia",2000,"m","45-54",158
+"SA","Saudi Arabia",2000,"m","55-64",86
+"SA","Saudi Arabia",2000,"m","65+",107
+"SA","Saudi Arabia",2000,"f","0-14",28
+"SA","Saudi Arabia",2000,"f","15-24",172
+"SA","Saudi Arabia",2000,"f","25-34",182
+"SA","Saudi Arabia",2000,"f","35-44",79
+"SA","Saudi Arabia",2000,"f","45-54",51
+"SA","Saudi Arabia",2000,"f","55-64",50
+"SA","Saudi Arabia",2000,"f","65+",70
+"SB","Solomon Islands",2000,"m","0-14",3
+"SB","Solomon Islands",2000,"m","15-24",13
+"SB","Solomon Islands",2000,"m","25-34",4
+"SB","Solomon Islands",2000,"m","35-44",8
+"SB","Solomon Islands",2000,"m","45-54",8
+"SB","Solomon Islands",2000,"m","55-64",10
+"SB","Solomon Islands",2000,"m","65+",6
+"SB","Solomon Islands",2000,"f","0-14",8
+"SB","Solomon Islands",2000,"f","15-24",15
+"SB","Solomon Islands",2000,"f","25-34",13
+"SB","Solomon Islands",2000,"f","35-44",7
+"SB","Solomon Islands",2000,"f","45-54",7
+"SB","Solomon Islands",2000,"f","55-64",5
+"SB","Solomon Islands",2000,"f","65+",2
+"SC","Seychelles",2000,"m","25-34",2
+"SC","Seychelles",2000,"m","35-44",4
+"SC","Seychelles",2000,"m","45-54",1
+"SC","Seychelles",2000,"m","55-64",1
+"SC","Seychelles",2000,"f","25-34",1
+"SC","Seychelles",2000,"f","35-44",0
+"SC","Seychelles",2000,"f","45-54",1
+"SC","Seychelles",2000,"f","55-64",1
+"SD","Sudan",2000,"m","0-14",785
+"SD","Sudan",2000,"m","15-24",1028
+"SD","Sudan",2000,"m","25-34",1511
+"SD","Sudan",2000,"m","35-44",1351
+"SD","Sudan",2000,"m","45-54",1119
+"SD","Sudan",2000,"m","55-64",638
+"SD","Sudan",2000,"m","65+",677
+"SD","Sudan",2000,"f","0-14",817
+"SD","Sudan",2000,"f","15-24",925
+"SD","Sudan",2000,"f","25-34",1134
+"SD","Sudan",2000,"f","35-44",905
+"SD","Sudan",2000,"f","45-54",771
+"SD","Sudan",2000,"f","55-64",327
+"SD","Sudan",2000,"f","65+",323
+"SE","Sweden",2000,"m","0-14",0
+"SE","Sweden",2000,"m","15-24",9
+"SE","Sweden",2000,"m","25-34",10
+"SE","Sweden",2000,"m","35-44",12
+"SE","Sweden",2000,"m","45-54",11
+"SE","Sweden",2000,"m","55-64",4
+"SE","Sweden",2000,"m","65+",25
+"SE","Sweden",2000,"f","0-14",1
+"SE","Sweden",2000,"f","15-24",9
+"SE","Sweden",2000,"f","25-34",8
+"SE","Sweden",2000,"f","35-44",10
+"SE","Sweden",2000,"f","45-54",2
+"SE","Sweden",2000,"f","55-64",2
+"SE","Sweden",2000,"f","65+",15
+"SG","Singapore",2000,"m","0-14",1
+"SG","Singapore",2000,"m","15-24",8
+"SG","Singapore",2000,"m","25-34",9
+"SG","Singapore",2000,"m","35-44",34
+"SG","Singapore",2000,"m","45-54",51
+"SG","Singapore",2000,"m","55-64",26
+"SG","Singapore",2000,"m","65+",64
+"SG","Singapore",2000,"f","0-14",1
+"SG","Singapore",2000,"f","15-24",9
+"SG","Singapore",2000,"f","25-34",8
+"SG","Singapore",2000,"f","35-44",7
+"SG","Singapore",2000,"f","45-54",9
+"SG","Singapore",2000,"f","55-64",5
+"SG","Singapore",2000,"f","65+",16
+"SI","Slovenia",2000,"m","0-14",0
+"SI","Slovenia",2000,"m","15-24",3
+"SI","Slovenia",2000,"m","25-34",11
+"SI","Slovenia",2000,"m","35-44",36
+"SI","Slovenia",2000,"m","45-54",22
+"SI","Slovenia",2000,"m","55-64",14
+"SI","Slovenia",2000,"m","65+",17
+"SI","Slovenia",2000,"f","0-14",0
+"SI","Slovenia",2000,"f","15-24",3
+"SI","Slovenia",2000,"f","25-34",9
+"SI","Slovenia",2000,"f","35-44",3
+"SI","Slovenia",2000,"f","45-54",4
+"SI","Slovenia",2000,"f","55-64",3
+"SI","Slovenia",2000,"f","65+",20
+"SK","Slovakia",2000,"m","0-14",2
+"SK","Slovakia",2000,"m","15-24",6
+"SK","Slovakia",2000,"m","25-34",15
+"SK","Slovakia",2000,"m","35-44",31
+"SK","Slovakia",2000,"m","45-54",50
+"SK","Slovakia",2000,"m","55-64",16
+"SK","Slovakia",2000,"m","65+",32
+"SK","Slovakia",2000,"f","0-14",0
+"SK","Slovakia",2000,"f","15-24",5
+"SK","Slovakia",2000,"f","25-34",9
+"SK","Slovakia",2000,"f","35-44",7
+"SK","Slovakia",2000,"f","45-54",5
+"SK","Slovakia",2000,"f","55-64",4
+"SK","Slovakia",2000,"f","65+",54
+"SL","Sierra Leone",2000,"m","0-14",18
+"SL","Sierra Leone",2000,"m","15-24",287
+"SL","Sierra Leone",2000,"m","25-34",486
+"SL","Sierra Leone",2000,"m","35-44",361
+"SL","Sierra Leone",2000,"m","45-54",190
+"SL","Sierra Leone",2000,"m","55-64",113
+"SL","Sierra Leone",2000,"m","65+",47
+"SL","Sierra Leone",2000,"f","0-14",27
+"SL","Sierra Leone",2000,"f","15-24",249
+"SL","Sierra Leone",2000,"f","25-34",298
+"SL","Sierra Leone",2000,"f","35-44",225
+"SL","Sierra Leone",2000,"f","45-54",92
+"SL","Sierra Leone",2000,"f","55-64",49
+"SL","Sierra Leone",2000,"f","65+",30
+"SM","San Marino",2000,"m","65+",1
+"SN","Senegal",2000,"m","0-14",60
+"SN","Senegal",2000,"m","15-24",772
+"SN","Senegal",2000,"m","25-34",1297
+"SN","Senegal",2000,"m","35-44",857
+"SN","Senegal",2000,"m","45-54",470
+"SN","Senegal",2000,"m","55-64",279
+"SN","Senegal",2000,"m","65+",189
+"SN","Senegal",2000,"f","0-14",77
+"SN","Senegal",2000,"f","15-24",521
+"SN","Senegal",2000,"f","25-34",540
+"SN","Senegal",2000,"f","35-44",376
+"SN","Senegal",2000,"f","45-54",217
+"SN","Senegal",2000,"f","55-64",107
+"SN","Senegal",2000,"f","65+",61
+"SO","Somalia",2000,"m","0-14",113
+"SO","Somalia",2000,"m","15-24",740
+"SO","Somalia",2000,"m","25-34",724
+"SO","Somalia",2000,"m","35-44",408
+"SO","Somalia",2000,"m","45-54",254
+"SO","Somalia",2000,"m","55-64",195
+"SO","Somalia",2000,"m","65+",142
+"SO","Somalia",2000,"f","0-14",85
+"SO","Somalia",2000,"f","15-24",354
+"SO","Somalia",2000,"f","25-34",319
+"SO","Somalia",2000,"f","35-44",219
+"SO","Somalia",2000,"f","45-54",110
+"SO","Somalia",2000,"f","55-64",72
+"SO","Somalia",2000,"f","65+",41
+"SR","Suriname",2000,"m","0-14",1
+"SR","Suriname",2000,"m","15-24",6
+"SR","Suriname",2000,"m","25-34",6
+"SR","Suriname",2000,"m","35-44",3
+"SR","Suriname",2000,"m","45-54",2
+"SR","Suriname",2000,"m","55-64",0
+"SR","Suriname",2000,"m","65+",4
+"SR","Suriname",2000,"f","0-14",2
+"SR","Suriname",2000,"f","15-24",3
+"SR","Suriname",2000,"f","25-34",6
+"SR","Suriname",2000,"f","35-44",3
+"SR","Suriname",2000,"f","45-54",0
+"SR","Suriname",2000,"f","55-64",1
+"SR","Suriname",2000,"f","65+",1
+"ST","São Tomé & Príncipe",2000,"m","0-14",1
+"ST","São Tomé & Príncipe",2000,"m","15-24",5
+"ST","São Tomé & Príncipe",2000,"m","25-34",11
+"ST","São Tomé & Príncipe",2000,"m","35-44",4
+"ST","São Tomé & Príncipe",2000,"m","45-54",7
+"ST","São Tomé & Príncipe",2000,"m","55-64",3
+"ST","São Tomé & Príncipe",2000,"m","65+",10
+"ST","São Tomé & Príncipe",2000,"f","0-14",3
+"ST","São Tomé & Príncipe",2000,"f","15-24",7
+"ST","São Tomé & Príncipe",2000,"f","25-34",15
+"ST","São Tomé & Príncipe",2000,"f","35-44",5
+"ST","São Tomé & Príncipe",2000,"f","45-54",7
+"ST","São Tomé & Príncipe",2000,"f","55-64",4
+"ST","São Tomé & Príncipe",2000,"f","65+",15
+"SV","El Salvador",2000,"m","0-14",13
+"SV","El Salvador",2000,"m","15-24",99
+"SV","El Salvador",2000,"m","25-34",124
+"SV","El Salvador",2000,"m","35-44",114
+"SV","El Salvador",2000,"m","45-54",92
+"SV","El Salvador",2000,"m","55-64",62
+"SV","El Salvador",2000,"m","65+",107
+"SV","El Salvador",2000,"f","0-14",28
+"SV","El Salvador",2000,"f","15-24",81
+"SV","El Salvador",2000,"f","25-34",76
+"SV","El Salvador",2000,"f","35-44",63
+"SV","El Salvador",2000,"f","45-54",63
+"SV","El Salvador",2000,"f","55-64",39
+"SV","El Salvador",2000,"f","65+",47
+"SY","Syria",2000,"m","0-14",8
+"SY","Syria",2000,"m","15-24",359
+"SY","Syria",2000,"m","25-34",289
+"SY","Syria",2000,"m","35-44",125
+"SY","Syria",2000,"m","45-54",86
+"SY","Syria",2000,"m","55-64",76
+"SY","Syria",2000,"m","65+",55
+"SY","Syria",2000,"f","0-14",23
+"SY","Syria",2000,"f","15-24",195
+"SY","Syria",2000,"f","25-34",101
+"SY","Syria",2000,"f","35-44",53
+"SY","Syria",2000,"f","45-54",46
+"SY","Syria",2000,"f","55-64",38
+"SY","Syria",2000,"f","65+",28
+"SZ","Eswatini",2000,"m","0-14",11
+"SZ","Eswatini",2000,"m","15-24",130
+"SZ","Eswatini",2000,"m","25-34",352
+"SZ","Eswatini",2000,"m","35-44",249
+"SZ","Eswatini",2000,"m","45-54",138
+"SZ","Eswatini",2000,"m","55-64",37
+"SZ","Eswatini",2000,"m","65+",17
+"SZ","Eswatini",2000,"f","0-14",10
+"SZ","Eswatini",2000,"f","15-24",198
+"SZ","Eswatini",2000,"f","25-34",298
+"SZ","Eswatini",2000,"f","35-44",62
+"SZ","Eswatini",2000,"f","45-54",62
+"SZ","Eswatini",2000,"f","55-64",24
+"SZ","Eswatini",2000,"f","65+",5
+"TG","Togo",2000,"m","0-14",4
+"TG","Togo",2000,"m","15-24",101
+"TG","Togo",2000,"m","25-34",168
+"TG","Togo",2000,"m","35-44",144
+"TG","Togo",2000,"m","45-54",109
+"TG","Togo",2000,"m","55-64",48
+"TG","Togo",2000,"m","65+",39
+"TG","Togo",2000,"f","0-14",13
+"TG","Togo",2000,"f","15-24",107
+"TG","Togo",2000,"f","25-34",124
+"TG","Togo",2000,"f","35-44",50
+"TG","Togo",2000,"f","45-54",36
+"TG","Togo",2000,"f","55-64",24
+"TG","Togo",2000,"f","65+",15
+"TH","Thailand",2000,"m","0-14",27
+"TH","Thailand",2000,"m","15-24",859
+"TH","Thailand",2000,"m","25-34",2570
+"TH","Thailand",2000,"m","35-44",2380
+"TH","Thailand",2000,"m","45-54",2117
+"TH","Thailand",2000,"m","55-64",1908
+"TH","Thailand",2000,"m","65+",2213
+"TH","Thailand",2000,"f","0-14",32
+"TH","Thailand",2000,"f","15-24",624
+"TH","Thailand",2000,"f","25-34",1035
+"TH","Thailand",2000,"f","35-44",780
+"TH","Thailand",2000,"f","45-54",873
+"TH","Thailand",2000,"f","55-64",1016
+"TH","Thailand",2000,"f","65+",1321
+"TM","Turkmenistan",2000,"m","0-14",16
+"TM","Turkmenistan",2000,"m","15-24",103
+"TM","Turkmenistan",2000,"m","25-34",185
+"TM","Turkmenistan",2000,"m","35-44",144
+"TM","Turkmenistan",2000,"m","45-54",127
+"TM","Turkmenistan",2000,"m","55-64",31
+"TM","Turkmenistan",2000,"m","65+",21
+"TM","Turkmenistan",2000,"f","0-14",19
+"TM","Turkmenistan",2000,"f","15-24",73
+"TM","Turkmenistan",2000,"f","25-34",140
+"TM","Turkmenistan",2000,"f","35-44",76
+"TM","Turkmenistan",2000,"f","45-54",31
+"TM","Turkmenistan",2000,"f","55-64",34
+"TM","Turkmenistan",2000,"f","65+",17
+"TN","Tunisia",2000,"m","0-14",16
+"TN","Tunisia",2000,"m","15-24",139
+"TN","Tunisia",2000,"m","25-34",208
+"TN","Tunisia",2000,"m","35-44",156
+"TN","Tunisia",2000,"m","45-54",109
+"TN","Tunisia",2000,"m","55-64",65
+"TN","Tunisia",2000,"m","65+",101
+"TN","Tunisia",2000,"f","0-14",7
+"TN","Tunisia",2000,"f","15-24",68
+"TN","Tunisia",2000,"f","25-34",59
+"TN","Tunisia",2000,"f","35-44",43
+"TN","Tunisia",2000,"f","45-54",21
+"TN","Tunisia",2000,"f","55-64",21
+"TN","Tunisia",2000,"f","65+",58
+"TO","Tonga",2000,"m","15-24",2
+"TO","Tonga",2000,"m","25-34",1
+"TO","Tonga",2000,"m","35-44",1
+"TO","Tonga",2000,"m","55-64",1
+"TO","Tonga",2000,"m","65+",5
+"TO","Tonga",2000,"f","15-24",1
+"TO","Tonga",2000,"f","25-34",1
+"TO","Tonga",2000,"f","35-44",1
+"TO","Tonga",2000,"f","55-64",1
+"TO","Tonga",2000,"f","65+",1
+"TT","Trinidad & Tobago",2000,"m","0-14",0
+"TT","Trinidad & Tobago",2000,"m","15-24",7
+"TT","Trinidad & Tobago",2000,"m","25-34",18
+"TT","Trinidad & Tobago",2000,"m","35-44",27
+"TT","Trinidad & Tobago",2000,"m","45-54",17
+"TT","Trinidad & Tobago",2000,"m","55-64",7
+"TT","Trinidad & Tobago",2000,"m","65+",7
+"TT","Trinidad & Tobago",2000,"f","0-14",0
+"TT","Trinidad & Tobago",2000,"f","15-24",5
+"TT","Trinidad & Tobago",2000,"f","25-34",7
+"TT","Trinidad & Tobago",2000,"f","35-44",9
+"TT","Trinidad & Tobago",2000,"f","45-54",5
+"TT","Trinidad & Tobago",2000,"f","55-64",2
+"TT","Trinidad & Tobago",2000,"f","65+",4
+"TZ","Tanzania",2000,"m","0-14",200
+"TZ","Tanzania",2000,"m","15-24",2357
+"TZ","Tanzania",2000,"m","25-34",4836
+"TZ","Tanzania",2000,"m","35-44",3430
+"TZ","Tanzania",2000,"m","45-54",2022
+"TZ","Tanzania",2000,"m","55-64",1202
+"TZ","Tanzania",2000,"m","65+",834
+"TZ","Tanzania",2000,"f","0-14",257
+"TZ","Tanzania",2000,"f","15-24",2106
+"TZ","Tanzania",2000,"f","25-34",3426
+"TZ","Tanzania",2000,"f","35-44",1738
+"TZ","Tanzania",2000,"f","45-54",868
+"TZ","Tanzania",2000,"f","55-64",494
+"TZ","Tanzania",2000,"f","65+",269
+"UA","Ukraine",2000,"m","0-14",21
+"UA","Ukraine",2000,"m","15-24",693
+"UA","Ukraine",2000,"m","25-34",1552
+"UA","Ukraine",2000,"m","35-44",2385
+"UA","Ukraine",2000,"m","45-54",2007
+"UA","Ukraine",2000,"m","55-64",1062
+"UA","Ukraine",2000,"m","65+",532
+"UA","Ukraine",2000,"f","0-14",41
+"UA","Ukraine",2000,"f","15-24",487
+"UA","Ukraine",2000,"f","25-34",590
+"UA","Ukraine",2000,"f","35-44",447
+"UA","Ukraine",2000,"f","45-54",298
+"UA","Ukraine",2000,"f","55-64",218
+"UA","Ukraine",2000,"f","65+",405
+"UG","Uganda",2000,"m","0-14",283
+"UG","Uganda",2000,"m","15-24",1511
+"UG","Uganda",2000,"m","25-34",3497
+"UG","Uganda",2000,"m","35-44",2479
+"UG","Uganda",2000,"m","45-54",1279
+"UG","Uganda",2000,"m","55-64",607
+"UG","Uganda",2000,"m","65+",395
+"UG","Uganda",2000,"f","0-14",400
+"UG","Uganda",2000,"f","15-24",1649
+"UG","Uganda",2000,"f","25-34",2782
+"UG","Uganda",2000,"f","35-44",1510
+"UG","Uganda",2000,"f","45-54",671
+"UG","Uganda",2000,"f","55-64",316
+"UG","Uganda",2000,"f","65+",163
+"US","United States",2000,"m","0-14",6
+"US","United States",2000,"m","15-24",365
+"US","United States",2000,"m","25-34",602
+"US","United States",2000,"m","35-44",906
+"US","United States",2000,"m","45-54",904
+"US","United States",2000,"m","55-64",577
+"US","United States",2000,"m","65+",738
+"US","United States",2000,"f","0-14",14
+"US","United States",2000,"f","15-24",246
+"US","United States",2000,"f","25-34",376
+"US","United States",2000,"f","35-44",349
+"US","United States",2000,"f","45-54",253
+"US","United States",2000,"f","55-64",152
+"US","United States",2000,"f","65+",396
+"UY","Uruguay",2000,"m","0-14",0
+"UY","Uruguay",2000,"m","15-24",36
+"UY","Uruguay",2000,"m","25-34",48
+"UY","Uruguay",2000,"m","35-44",45
+"UY","Uruguay",2000,"m","45-54",41
+"UY","Uruguay",2000,"m","55-64",30
+"UY","Uruguay",2000,"m","65+",34
+"UY","Uruguay",2000,"f","0-14",2
+"UY","Uruguay",2000,"f","15-24",28
+"UY","Uruguay",2000,"f","25-34",22
+"UY","Uruguay",2000,"f","35-44",21
+"UY","Uruguay",2000,"f","45-54",13
+"UY","Uruguay",2000,"f","55-64",12
+"UY","Uruguay",2000,"f","65+",16
+"UZ","Uzbekistan",2000,"m","0-14",6
+"UZ","Uzbekistan",2000,"m","15-24",351
+"UZ","Uzbekistan",2000,"m","25-34",749
+"UZ","Uzbekistan",2000,"m","35-44",510
+"UZ","Uzbekistan",2000,"m","45-54",346
+"UZ","Uzbekistan",2000,"m","55-64",213
+"UZ","Uzbekistan",2000,"m","65+",107
+"UZ","Uzbekistan",2000,"f","0-14",11
+"UZ","Uzbekistan",2000,"f","15-24",261
+"UZ","Uzbekistan",2000,"f","25-34",547
+"UZ","Uzbekistan",2000,"f","35-44",288
+"UZ","Uzbekistan",2000,"f","45-54",213
+"UZ","Uzbekistan",2000,"f","55-64",112
+"UZ","Uzbekistan",2000,"f","65+",111
+"VC","St. Vincent & Grenadines",2000,"m","0-14",0
+"VC","St. Vincent & Grenadines",2000,"m","15-24",1
+"VC","St. Vincent & Grenadines",2000,"m","25-34",0
+"VC","St. Vincent & Grenadines",2000,"m","35-44",4
+"VC","St. Vincent & Grenadines",2000,"m","45-54",2
+"VC","St. Vincent & Grenadines",2000,"m","55-64",0
+"VC","St. Vincent & Grenadines",2000,"m","65+",1
+"VC","St. Vincent & Grenadines",2000,"f","0-14",1
+"VC","St. Vincent & Grenadines",2000,"f","15-24",0
+"VC","St. Vincent & Grenadines",2000,"f","25-34",0
+"VC","St. Vincent & Grenadines",2000,"f","35-44",0
+"VC","St. Vincent & Grenadines",2000,"f","45-54",0
+"VC","St. Vincent & Grenadines",2000,"f","55-64",0
+"VC","St. Vincent & Grenadines",2000,"f","65+",0
+"VG","British Virgin Islands",2000,"m","55-64",1
+"VN","Vietnam",2000,"m","0-14",51
+"VN","Vietnam",2000,"m","15-24",2367
+"VN","Vietnam",2000,"m","25-34",6147
+"VN","Vietnam",2000,"m","35-44",8209
+"VN","Vietnam",2000,"m","45-54",6713
+"VN","Vietnam",2000,"m","55-64",5150
+"VN","Vietnam",2000,"m","65+",7712
+"VN","Vietnam",2000,"f","0-14",64
+"VN","Vietnam",2000,"f","15-24",1334
+"VN","Vietnam",2000,"f","25-34",2320
+"VN","Vietnam",2000,"f","35-44",2754
+"VN","Vietnam",2000,"f","45-54",2594
+"VN","Vietnam",2000,"f","55-64",2847
+"VN","Vietnam",2000,"f","65+",4907
+"VU","Vanuatu",2000,"m","0-14",2
+"VU","Vanuatu",2000,"m","15-24",7
+"VU","Vanuatu",2000,"m","25-34",5
+"VU","Vanuatu",2000,"m","35-44",1
+"VU","Vanuatu",2000,"m","45-54",10
+"VU","Vanuatu",2000,"m","55-64",5
+"VU","Vanuatu",2000,"m","65+",2
+"VU","Vanuatu",2000,"f","0-14",5
+"VU","Vanuatu",2000,"f","15-24",3
+"VU","Vanuatu",2000,"f","25-34",15
+"VU","Vanuatu",2000,"f","35-44",7
+"VU","Vanuatu",2000,"f","45-54",3
+"VU","Vanuatu",2000,"f","55-64",3
+"VU","Vanuatu",2000,"f","65+",1
+"WS","Samoa",2000,"m","0-14",0
+"WS","Samoa",2000,"m","15-24",3
+"WS","Samoa",2000,"m","25-34",1
+"WS","Samoa",2000,"m","35-44",1
+"WS","Samoa",2000,"m","45-54",1
+"WS","Samoa",2000,"m","55-64",2
+"WS","Samoa",2000,"m","65+",1
+"WS","Samoa",2000,"f","0-14",0
+"WS","Samoa",2000,"f","15-24",2
+"WS","Samoa",2000,"f","25-34",1
+"WS","Samoa",2000,"f","35-44",1
+"WS","Samoa",2000,"f","45-54",0
+"WS","Samoa",2000,"f","55-64",0
+"WS","Samoa",2000,"f","65+",0
+"YE","Yemen",2000,"m","0-14",110
+"YE","Yemen",2000,"m","15-24",789
+"YE","Yemen",2000,"m","25-34",689
+"YE","Yemen",2000,"m","35-44",493
+"YE","Yemen",2000,"m","45-54",314
+"YE","Yemen",2000,"m","55-64",255
+"YE","Yemen",2000,"m","65+",127
+"YE","Yemen",2000,"f","0-14",161
+"YE","Yemen",2000,"f","15-24",799
+"YE","Yemen",2000,"f","25-34",627
+"YE","Yemen",2000,"f","35-44",517
+"YE","Yemen",2000,"f","45-54",345
+"YE","Yemen",2000,"f","55-64",247
+"YE","Yemen",2000,"f","65+",92
+"ZA","South Africa",2000,"m","0-14",116
+"ZA","South Africa",2000,"m","15-24",723
+"ZA","South Africa",2000,"m","25-34",1999
+"ZA","South Africa",2000,"m","35-44",2135
+"ZA","South Africa",2000,"m","45-54",1146
+"ZA","South Africa",2000,"m","55-64",435
+"ZA","South Africa",2000,"m","65+",212
+"ZA","South Africa",2000,"f","0-14",122
+"ZA","South Africa",2000,"f","15-24",1283
+"ZA","South Africa",2000,"f","25-34",1716
+"ZA","South Africa",2000,"f","35-44",933
+"ZA","South Africa",2000,"f","45-54",423
+"ZA","South Africa",2000,"f","55-64",167
+"ZA","South Africa",2000,"f","65+",80
+"ZM","Zambia",2000,"m","0-14",349
+"ZM","Zambia",2000,"m","15-24",2175
+"ZM","Zambia",2000,"m","25-34",2610
+"ZM","Zambia",2000,"m","35-44",3045
+"ZM","Zambia",2000,"m","45-54",435
+"ZM","Zambia",2000,"m","55-64",261
+"ZM","Zambia",2000,"m","65+",174
+"ZM","Zambia",2000,"f","0-14",150
+"ZM","Zambia",2000,"f","15-24",932
+"ZM","Zambia",2000,"f","25-34",1118
+"ZM","Zambia",2000,"f","35-44",1305
+"ZM","Zambia",2000,"f","45-54",186
+"ZM","Zambia",2000,"f","55-64",112
+"ZM","Zambia",2000,"f","65+",75
