@@ -1,17 +1,10 @@
-# Load packages for analysis
+# Load packages 
 library(tidyverse)
-library(dplyr)
 library(ggplot2)
-library(ggthemes) 
-library(psych)
-
-install.packages("ggpattern")
-library(ggplot2)
-library(ggpattern)
-
+library(countrycode)
 
 # Load data and rename to something shorter
-tb <- read_csv("data/tb_untidy.csv") # I had to store this data in /Users/User/Documents/GIT/reproducible-research because it wouldn't read from the "data" folder
+tb <- read_csv("data/tb_untidy.csv") 
 tb <- as_tibble(tb)
 tb
 
