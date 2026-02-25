@@ -3,7 +3,6 @@ title: "DWLGRE003 - Reproducible Research Project"
 author: "Grethen de Waal"
 data: "Tuberculosis counts for 201 countries in 2000, by sex and age group"
 ---
-<<<<<<< HEAD
 
 <br>
 
