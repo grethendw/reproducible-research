@@ -9,7 +9,7 @@ output: html_document
 
 ### Introduction
 
-The dataset I have selected shows the number of TB cases per age group, divided by sex, for 201 countries in the year 2000. This data were taken from this [Udemy R course] (https://www.udemy.com/course/r-programming-for-statistics-and-data-science/>) I did, and was originally sourced from WHO, likely this report: <https://iris.who.int/server/api/core/bitstreams/e031e926-f850-4d6d-a99f-d6ae841add4b/content>.
+The dataset I have selected shows the number of TB cases per age group, divided by sex, for 201 countries in the year 2000. This data were taken from a [Udemy R course](https://www.udemy.com/course/r-programming-for-statistics-and-data-science/) I did, and was originally sourced from WHO, likely [this report](https://iris.who.int/server/api/core/bitstreams/e031e926-f850-4d6d-a99f-d6ae841add4b/content).
 
 <br>
 
@@ -79,7 +79,7 @@ tb_tidy <- tb %>%
 
 **Problem 3**
 
-The sex and age categories need to be split. 
+The age ranges need to be split. 
 
 With this code below, entries like "014" are split with a hyphen, and will end up looking like "0-14". Since 65 does not come with an age range, I just said "65+".
 
