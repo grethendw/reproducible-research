@@ -3,6 +3,7 @@ title: "DWLGRE003 - Reproducible Research Project"
 author: "Grethen de Waal"
 data: "Tuberculosis counts for 201 countries in 2000, by sex and age group"
 ---
+<<<<<<< HEAD
 
 <br>
 
@@ -31,3 +32,10 @@ Finally, I removed the year column as it was the same for all observations.
 
 #### Creation of charts
 To create a box plot and a bar chart, I used the **ggplot2** package. 
+=======
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/grethendw/reproducible-research/HEAD)
+
+https://mybinder.org/v2/gh/grethendw/reproducible-research/HEAD
+
+https://hub.gesis.mybinder.org/user/grethendw-reproducible-research-ppp3iyj8/rstudio/
+>>>>>>> 67d66c1e55f4a4fcda70ce8bb56a1e243ff731a7
