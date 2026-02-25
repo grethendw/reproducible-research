@@ -2,6 +2,7 @@
 title: "DWLGRE003 - Reproducible Research Project"
 author: "Grethen de Waal"
 data: "Tuberculosis counts for 201 countries in 2000, by sex and age group"
+module: "Introduction to Reproducible Research"
 ---
 
 <br>
@@ -20,12 +21,28 @@ She edited the data to make it suitable for the course.
 
 <br>
 
+#### Using the repository
+* **data/** contains the raw dataset ("tb_untidy.csv") and the processed, tidy version ("tb_tidied.csv")
+
+* **scripts/** contains the R code used to tidy the dataset.
+
+* **output/** contains the two charts made after the data was tidied.
+
+* **RR deliverable 20260220.Rmd** contains the full process and code of tidying "tb_untidy.csv" and generating charts.
+
+<br>
+
+
 #### Data tidying process
 I tidied the data using **tidyverse** and **countrycode** packages.
-To do this, I pivoted the table, split the age and sex column and removed NA values using pivot_longer(). 
-I used mutate() to add hyphens between the age ranges. 
-I used countrycode() to add country names based on the codes in the data.
-Finally, I removed the year column as it was the same for all observations.
+
+* I pivoted the table, split the age and sex column and removed NA values using pivot_longer( ). 
+
+* I used mutate( ) to add hyphens between the age ranges. 
+
+* I used countrycode( ) to add country names based on the codes in the data.
+
+* Finally, I removed the year column as it was the same for all observations.
 
 <br>
 
