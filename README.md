@@ -2,7 +2,6 @@
 title: "DWLGRE003 - Reproducible Research Project"
 author: "Grethen de Waal"
 ---
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/grethendw/reproducible-research/HEAD)
 
 https://mybinder.org/v2/gh/grethendw/reproducible-research/HEAD
 
