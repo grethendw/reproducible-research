@@ -11,7 +11,7 @@ library(ggpattern)
 
 
 # Load data and rename to something shorter
-tb <- read_csv("tb_untidy.csv") # I had to store this data in /Users/User/Documents/GIT/reproducible-research because it wouldn't read from the "data" folder
+tb <- read_csv("data/tb_untidy.csv") # I had to store this data in /Users/User/Documents/GIT/reproducible-research because it wouldn't read from the "data" folder
 tb <- as_tibble(tb)
 tb
 
@@ -78,25 +78,28 @@ tb_tidy
 # country code AN could not be matched unambiguously, so I kept both the country codes and the names. 
 # I tried using the mutate() function the way I used it to add the hyphens in the age ranges but it didn't work.
 
-tb_tidy_NA <- tb_tidy %>%
-  mutate(country_name = case_when(
-    country_name == "NA" ~ "Netherlands Antilles",
-    TRUE ~ country_name))
+# tb_tidy_NA <- tb_tidy %>%
+#  mutate(country_name = case_when(
+#    country_name == "NA" ~ "Netherlands Antilles",
+#    TRUE ~ country_name))
 
-tb_tidy_NA
+# tb_tidy_NA
 
 
 # Problem 5
 # Remove the year column
 
-tb_tidy$year <- NULL
-tb_tidy
+tb_tidied <- tb_tidy %>% 
+  select(-year)
+
+head(tb_tidied)
 
 
 ## Export tidied dataset
 
-write.csv(tb_tidy, file = "tb_tidied.csv", row.names = FALSE)
+write.csv(tb_tidied, file = "data/tb_tidied.csv", row.names = FALSE)
 
+tb_tidied
 
 
 #### Make some charts ----
