@@ -13,7 +13,7 @@ data: "Tuberculosis counts for 201 countries in 2000, by sex and age group"
 #### Source of dataset
 The dataset I have selected shows the number of TB cases per age group, divided by sex, for 201 countries in the year 2000. 
 This data were taken from a [Udemy R course](https://www.udemy.com/course/r-programming-for-statistics-and-data-science/) I did,
-and was originally from the WHO, likely from page 78 of [this report](https://iris.who.int/server/api/core/bitstreams/e031e926-f850-4d6d-a99f-d6ae841add4b/content). 
+and was originally from the WHO, likely from [this report](https://iris.who.int/server/api/core/bitstreams/e031e926-f850-4d6d-a99f-d6ae841add4b/content). 
 
 The data were sourced by the course convener, Simona (last name not provided), likely around 2023 when the course went online.
 She edited the data to make it suitable for the course.
