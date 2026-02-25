@@ -32,7 +32,7 @@ library(countrycode)
 #### Loading the data
 
 ```{r}
-tb <- read_csv("tb_untidy.csv") # I had to store this data in /Users/User/Documents/GIT/reproducible-research because R wouldn't read from the "data" folder
+tb <- read_csv("data/tb_untidy.csv") 
 
 tb <- as_tibble(tb)
 
@@ -135,8 +135,16 @@ Removing the year column.
 <br>
 
 ```{r}
-tb_tidy$year <- NULL
-tb_tidy
+tb_tidied <- tb_tidy %>% 
+  select(-year)
+```
+
+<br>
+
+### Export tidied dataset
+
+```{r}
+write.csv(tb_tidied, file = "data/tb_tidied.csv", row.names = FALSE)
 ```
 
 <br>
