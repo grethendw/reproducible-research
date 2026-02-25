@@ -4,7 +4,6 @@ author: "Grethen de Waal"
 date: "`r Sys.Date()`"
 output: html_document
 ---
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/grethendw/reproducible-research/HEAD)
 
 <br>
 
