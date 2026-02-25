@@ -1,7 +1,3 @@
 install.packages("rmarkdown")
 install.packages("tidyverse")
-install.packages("sf")
-install.packages("mapview")
-install.packages("leafpop")
-install.packages("rinat")
 install.packages("countrycode")
