@@ -5,7 +5,6 @@ library(ggplot2)
 library(ggthemes) 
 library(psych)
 
-
 install.packages("ggpattern")
 library(ggplot2)
 library(ggpattern)
@@ -39,8 +38,8 @@ tb_tidy <- tb %>%
     names_to = c("sex", "age"),   #this tells R the names of the new columns
     names_pattern = "(.)(.*)",    # (.) is the first char, (.*) is everything after
     values_to = "cases",          # this is where the values previously stored under the m04 etc are stored
-    values_drop_na = TRUE         # this removes the NA values
-    )
+    values_drop_na = TRUE)         # this removes the NA values
+
 tb_tidy
 
 
@@ -62,11 +61,10 @@ tb_tidy <- tb_tidy %>%
 tb_tidy 
 
 
-# Problem 4
+## Problem 4
 
 install.packages("countrycode") # to extract country names from country codes
 library(countrycode)
-?countrycode
 # use iso2c: ISO-2 character
 
 tb_tidy <- tb_tidy %>%
@@ -114,9 +112,7 @@ tidy_box <- ggplot(tb_tidy, aes(x = age, y = cases, fill = sex)) +
         y = "Number of Cases",
         fill = "Sex")
 
-tidy_box
-
-# most of the useful information is cut off
+tidy_box    # most of the useful information is cut off
 
 
 ## bar chart
@@ -144,9 +140,7 @@ tidy_bar <- ggplot(tb_summary, aes(x = age, y = mean_cases, fill = sex)) +
        y = "Number of Cases",
        fill = "Sex") 
 
-tidy_bar
-
-# this chart looks nicer but may contain less information (can't see the mean etc)
+tidy_bar     # this chart looks nicer but may contain less information (can't see the mean etc)
 
 
 
