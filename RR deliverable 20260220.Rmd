@@ -32,7 +32,7 @@ library(countrycode)
 #### Loading the data
 
 ```{r}
-tb <- read_csv("tb_untidy.csv") # I had to store this data in /Users/User/Documents/GIT/reproducible-research because it wouldn't read from the "data" folder
+tb <- read_csv("tb_untidy.csv") # I had to store this data in /Users/User/Documents/GIT/reproducible-research because R wouldn't read from the "data" folder
 
 tb <- as_tibble(tb)
 
@@ -131,11 +131,10 @@ I tried using the mutate() function the way I used it to add the hyphens in the 
 <br>
 
 **Problem 5**
-
+Removing the year column.
 <br>
 
 ```{r}
-# Remove the year column
 tb_tidy$year <- NULL
 tb_tidy
 ```
