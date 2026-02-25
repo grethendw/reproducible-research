@@ -17,7 +17,7 @@ This data were taken from a [Udemy R course](https://www.udemy.com/course/r-prog
 and was originally from the WHO, likely from [this report](https://iris.who.int/server/api/core/bitstreams/75cba848-3a89-4e05-a736-afb69d0bece5/content). 
 
 The data were sourced by the course convener, Simona (last name not provided), likely around 2023 when the course went online.
-She edited the data to make it suitable for the course.
+She edited the data to make it suitable for the course, but the exact steps are unclear.
 
 <br>
 
